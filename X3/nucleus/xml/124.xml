@@ -1,0 +1,6377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="18.0.1.1" class="java.beans.XMLDecoder">
+ <object class="core.image.Entry" id="Entry0">
+  <void property="dataFilament">
+   <object class="core.cell.DataFilaments" id="DataFilaments0">
+    <void property="filaments">
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament0">
+       <void property="center">
+        <object class="java.awt.Point" id="Point0">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point0"/>
+           <int>7773</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point0"/>
+           <int>6591</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>100606442</long>
+       </void>
+       <void property="number">
+        <int>1</int>
+       </void>
+       <void property="orientation">
+        <long>164995080</long>
+       </void>
+       <void property="orientationField">
+        <int>1</int>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point1">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point1"/>
+            <int>728</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point1"/>
+            <int>649</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point2">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point2"/>
+            <int>777</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point2"/>
+            <int>659</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point3">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point3"/>
+            <int>825</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point3"/>
+            <int>675</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>2889461</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament1">
+       <void property="center">
+        <object class="java.awt.Point" id="Point4">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point4"/>
+           <int>7161</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point4"/>
+           <int>7305</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>57315015</long>
+       </void>
+       <void property="number">
+        <int>2</int>
+       </void>
+       <void property="orientation">
+        <long>78886959</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point5">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point5"/>
+            <int>719</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point5"/>
+            <int>702</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point6">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point6"/>
+            <int>716</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point6"/>
+            <int>731</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point7">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point7"/>
+            <int>708</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point7"/>
+            <int>758</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>3958332</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament2">
+       <void property="center">
+        <object class="java.awt.Point" id="Point8">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point8"/>
+           <int>6590</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point8"/>
+           <int>7055</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>57510719</long>
+       </void>
+       <void property="number">
+        <int>3</int>
+       </void>
+       <void property="orientation">
+        <long>47121096</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point9">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point9"/>
+            <int>641</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point9"/>
+            <int>728</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point10">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point10"/>
+            <int>661</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point10"/>
+            <int>703</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point11">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point11"/>
+            <int>680</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point11"/>
+            <int>686</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>3562944</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament3">
+       <void property="center">
+        <object class="java.awt.Point" id="Point12">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point12"/>
+           <int>7831</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point12"/>
+           <int>8201</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>52805926</long>
+       </void>
+       <void property="number">
+        <int>4</int>
+       </void>
+       <void property="orientation">
+        <long>24623565</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point13">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point13"/>
+            <int>807</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point13"/>
+            <int>809</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point14">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point14"/>
+            <int>801</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point14"/>
+            <int>812</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point15">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point15"/>
+            <int>759</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point15"/>
+            <int>831</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>3954986</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament4">
+       <void property="center">
+        <object class="java.awt.Point" id="Point16">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point16"/>
+           <int>4110</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point16"/>
+           <int>8555</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>39560081</long>
+       </void>
+       <void property="number">
+        <int>5</int>
+       </void>
+       <void property="orientation">
+        <long>163855661</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point17">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point17"/>
+            <int>392</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point17"/>
+            <int>850</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point18">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point18"/>
+            <int>430</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point18"/>
+            <int>861</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>4422642</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament5">
+       <void property="center">
+        <object class="java.awt.Point" id="Point19">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point19"/>
+           <int>4195</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point19"/>
+           <int>8585</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>39115214</long>
+       </void>
+       <void property="number">
+        <int>6</int>
+       </void>
+       <void property="orientation">
+        <long>4398705</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point20">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point20"/>
+            <int>439</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point20"/>
+            <int>857</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point21">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point21"/>
+            <int>400</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point21"/>
+            <int>860</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>4358936</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament6">
+       <void property="center">
+        <object class="java.awt.Point" id="Point22">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point22"/>
+           <int>6735</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point22"/>
+           <int>7734</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>37122171</long>
+       </void>
+       <void property="number">
+        <int>7</int>
+       </void>
+       <void property="orientation">
+        <long>1548158</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point23">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point23"/>
+            <int>655</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point23"/>
+            <int>773</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point24">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point24"/>
+            <int>666</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point24"/>
+            <int>774</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point25">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point25"/>
+            <int>692</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point25"/>
+            <int>772</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>4157359</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament7">
+       <void property="center">
+        <object class="java.awt.Point" id="Point26">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point26"/>
+           <int>6400</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point26"/>
+           <int>7455</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>35510562</long>
+       </void>
+       <void property="number">
+        <int>8</int>
+       </void>
+       <void property="orientation">
+        <long>80272421</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point27">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point27"/>
+            <int>643</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point27"/>
+            <int>728</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point28">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point28"/>
+            <int>637</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point28"/>
+            <int>763</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>4144247</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament8">
+       <void property="center">
+        <object class="java.awt.Point" id="Point29">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point29"/>
+           <int>3913</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point29"/>
+           <int>8787</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>40332242</long>
+       </void>
+       <void property="number">
+        <int>9</int>
+       </void>
+       <void property="orientation">
+        <long>46005086</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point30">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point30"/>
+            <int>405</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point30"/>
+            <int>864</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point31">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point31"/>
+            <int>399</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point31"/>
+            <int>871</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point32">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point32"/>
+            <int>377</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point32"/>
+            <int>893</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>5464020</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament9">
+       <void property="center">
+        <object class="java.awt.Point" id="Point33">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point33"/>
+           <int>8460</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point33"/>
+           <int>6730</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>50358713</long>
+       </void>
+       <void property="number">
+        <int>10</int>
+       </void>
+       <void property="orientation">
+        <long>173157227</long>
+       </void>
+       <void property="orientationField">
+        <int>1</int>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point34">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point34"/>
+            <int>871</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point34"/>
+            <int>676</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point35">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point35"/>
+            <int>821</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point35"/>
+            <int>670</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>2864978</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament10">
+       <void property="center">
+        <object class="java.awt.Point" id="Point36">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point36"/>
+           <int>3210</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point36"/>
+           <int>5185</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>43965896</long>
+       </void>
+       <void property="number">
+        <int>11</int>
+       </void>
+       <void property="orientation">
+        <long>162801459</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point37">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point37"/>
+            <int>300</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point37"/>
+            <int>512</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point38">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point38"/>
+            <int>342</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point38"/>
+            <int>525</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>3171145</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament11">
+       <void property="center">
+        <object class="java.awt.Point" id="Point39">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point39"/>
+           <int>6240</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point39"/>
+           <int>7690</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>34000000</long>
+       </void>
+       <void property="number">
+        <int>12</int>
+       </void>
+       <void property="orientation">
+        <long>61927513</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point40">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point40"/>
+            <int>632</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point40"/>
+            <int>754</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point41">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point41"/>
+            <int>616</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point41"/>
+            <int>784</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>4175399</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament12">
+       <void property="center">
+        <object class="java.awt.Point" id="Point42">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point42"/>
+           <int>8045</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point42"/>
+           <int>8050</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>47507894</long>
+       </void>
+       <void property="number">
+        <int>13</int>
+       </void>
+       <void property="orientation">
+        <long>49267893</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point43">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point43"/>
+            <int>789</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point43"/>
+            <int>823</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point44">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point44"/>
+            <int>820</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point44"/>
+            <int>787</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>3156234</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament13">
+       <void property="center">
+        <object class="java.awt.Point" id="Point45">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point45"/>
+           <int>8505</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point45"/>
+           <int>7920</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>44643029</long>
+       </void>
+       <void property="number">
+        <int>14</int>
+       </void>
+       <void property="orientation">
+        <long>164407189</long>
+       </void>
+       <void property="orientationField">
+        <int>1</int>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point46">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point46"/>
+            <int>829</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point46"/>
+            <int>786</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point47">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point47"/>
+            <int>872</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point47"/>
+            <int>798</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>2784010</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament14">
+       <void property="center">
+        <object class="java.awt.Point" id="Point48">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point48"/>
+           <int>8495</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point48"/>
+           <int>7778</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>31070345</long>
+       </void>
+       <void property="number">
+        <int>15</int>
+       </void>
+       <void property="orientationField">
+        <int>1</int>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point49">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point49"/>
+            <int>834</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point49"/>
+            <int>777</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point50">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point50"/>
+            <int>845</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point50"/>
+            <int>778</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point51">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point51"/>
+            <int>865</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point51"/>
+            <int>777</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>3207626</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament15">
+       <void property="center">
+        <object class="java.awt.Point" id="Point52">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point52"/>
+           <int>7515</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point52"/>
+           <int>8305</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>33136083</long>
+       </void>
+       <void property="number">
+        <int>16</int>
+       </void>
+       <void property="orientation">
+        <long>5194429</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point53">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point53"/>
+            <int>768</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point53"/>
+            <int>829</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point54">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point54"/>
+            <int>735</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point54"/>
+            <int>832</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>2621284</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament16">
+       <void property="center">
+        <object class="java.awt.Point" id="Point55">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point55"/>
+           <int>6655</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point55"/>
+           <int>7980</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>31064449</long>
+       </void>
+       <void property="number">
+        <int>17</int>
+       </void>
+       <void property="orientation">
+        <long>176308614</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point56">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point56"/>
+            <int>681</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point56"/>
+            <int>799</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point57">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point57"/>
+            <int>650</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point57"/>
+            <int>797</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>2664189</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament17">
+       <void property="center">
+        <object class="java.awt.Point" id="Point58">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point58"/>
+           <int>3120</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point58"/>
+           <int>5185</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>34014703</long>
+       </void>
+       <void property="number">
+        <int>18</int>
+       </void>
+       <void property="orientation">
+        <long>1684684</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point59">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point59"/>
+            <int>295</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point59"/>
+            <int>519</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point60">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point60"/>
+            <int>329</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point60"/>
+            <int>518</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>2844874</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament18">
+       <void property="center">
+        <object class="java.awt.Point" id="Point61">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point61"/>
+           <int>6703</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point61"/>
+           <int>7995</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>42179070</long>
+       </void>
+       <void property="number">
+        <int>19</int>
+       </void>
+       <void property="orientation">
+        <long>22306205</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point62">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point62"/>
+            <int>690</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point62"/>
+            <int>792</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point63">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point63"/>
+            <int>676</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point63"/>
+            <int>797</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point64">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point64"/>
+            <int>651</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point64"/>
+            <int>808</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>1883491</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament19">
+       <void property="center">
+        <object class="java.awt.Point" id="Point65">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point65"/>
+           <int>8269</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point65"/>
+           <int>7935</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>37844657</long>
+       </void>
+       <void property="number">
+        <int>20</int>
+       </void>
+       <void property="orientation">
+        <long>21801409</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point66">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point66"/>
+            <int>810</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point66"/>
+            <int>802</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point67">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point67"/>
+            <int>828</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point67"/>
+            <int>793</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point68">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point68"/>
+            <int>845</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point68"/>
+            <int>788</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>2194346</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament20">
+       <void property="center">
+        <object class="java.awt.Point" id="Point69">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point69"/>
+           <int>6279</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point69"/>
+           <int>7704</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>40362010</long>
+       </void>
+       <void property="number">
+        <int>21</int>
+       </void>
+       <void property="orientation">
+        <long>43994914</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point70">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point70"/>
+            <int>614</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point70"/>
+            <int>785</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point71">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point71"/>
+            <int>625</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point71"/>
+            <int>773</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point72">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point72"/>
+            <int>643</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point72"/>
+            <int>757</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>2561348</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament21">
+       <void property="center">
+        <object class="java.awt.Point" id="Point73">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point73"/>
+           <int>3865</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point73"/>
+           <int>5470</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>49244289</long>
+       </void>
+       <void property="number">
+        <int>22</int>
+       </void>
+       <void property="orientation">
+        <long>156037511</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point74">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point74"/>
+            <int>364</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point74"/>
+            <int>537</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point75">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point75"/>
+            <int>409</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point75"/>
+            <int>557</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>1465698</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament22">
+       <void property="center">
+        <object class="java.awt.Point" id="Point76">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point76"/>
+           <int>6943</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point76"/>
+           <int>6497</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>35841914</long>
+       </void>
+       <void property="number">
+        <int>23</int>
+       </void>
+       <void property="orientation">
+        <long>168690068</long>
+       </void>
+       <void property="orientationField">
+        <int>1</int>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point77">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point77"/>
+            <int>712</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point77"/>
+            <int>652</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point78">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point78"/>
+            <int>699</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point78"/>
+            <int>651</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point79">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point79"/>
+            <int>677</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point79"/>
+            <int>645</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>1784379</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament23">
+       <void property="center">
+        <object class="java.awt.Point" id="Point80">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point80"/>
+           <int>13975</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point80"/>
+           <int>7085</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>35355339</long>
+       </void>
+       <void property="number">
+        <int>24</int>
+       </void>
+       <void property="orientation">
+        <long>171869898</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point81">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point81"/>
+            <int>1380</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point81"/>
+            <int>706</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point82">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point82"/>
+            <int>1415</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point82"/>
+            <int>711</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>1617737</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament24">
+       <void property="center">
+        <object class="java.awt.Point" id="Point83">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point83"/>
+           <int>11690</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point83"/>
+           <int>7035</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>36124784</long>
+       </void>
+       <void property="number">
+        <int>25</int>
+       </void>
+       <void property="orientation">
+        <long>175236358</long>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point84">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point84"/>
+            <int>1187</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point84"/>
+            <int>705</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point85">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point85"/>
+            <int>1151</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point85"/>
+            <int>702</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>1385779</long>
+       </void>
+      </object>
+     </void>
+     <void method="add">
+      <object class="core.filaments.CurvedFilament" id="CurvedFilament25">
+       <void property="center">
+        <object class="java.awt.Point" id="Point86">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point86"/>
+           <int>6440</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point86"/>
+           <int>6390</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="keep">
+        <boolean>true</boolean>
+       </void>
+       <void property="length">
+        <long>31048349</long>
+       </void>
+       <void property="number">
+        <int>26</int>
+       </void>
+       <void property="orientation">
+        <long>165068583</long>
+       </void>
+       <void property="orientationField">
+        <int>1</int>
+       </void>
+       <void property="points">
+        <void method="add">
+         <object class="java.awt.Point" id="Point87">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point87"/>
+            <int>629</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point87"/>
+            <int>635</int>
+           </void>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="java.awt.Point" id="Point88">
+          <void class="java.awt.Point" method="getField">
+           <string>x</string>
+           <void method="set">
+            <object idref="Point88"/>
+            <int>659</int>
+           </void>
+          </void>
+          <void class="java.awt.Point" method="getField">
+           <string>y</string>
+           <void method="set">
+            <object idref="Point88"/>
+            <int>643</int>
+           </void>
+          </void>
+         </object>
+        </void>
+       </void>
+       <void property="width">
+        <long>1753345</long>
+       </void>
+      </object>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void property="interiorContainer">
+   <void property="interiorData">
+    <array class="long" length="3">
+     <void index="0">
+      <long>47531</long>
+     </void>
+     <void index="1">
+      <long>223003618</long>
+     </void>
+    </array>
+   </void>
+  </void>
+  <void id="OrientationFieldContainer0" property="orientationFieldContainer">
+   <void property="orientationFieldIds">
+    <void method="add">
+     <int>0</int>
+    </void>
+    <void method="add">
+     <int>1</int>
+    </void>
+   </void>
+   <void property="orientationFieldShapes">
+    <array class="[I" length="2">
+     <void index="1">
+      <array class="int" length="6">
+       <void index="0">
+        <int>812</int>
+       </void>
+       <void index="1">
+        <int>702</int>
+       </void>
+       <void index="2">
+        <int>75467</int>
+       </void>
+       <void index="3">
+        <int>2168255</int>
+       </void>
+       <void index="4">
+        <int>71150702</int>
+       </void>
+       <void index="5">
+        <int>145927404</int>
+       </void>
+      </array>
+     </void>
+    </array>
+   </void>
+   <void property="orientationFields">
+    <array class="[[I" length="2">
+     <void index="0">
+      <array class="[I" length="181">
+       <void index="0">
+        <array class="int" length="3">
+         <void index="0">
+          <int>364</int>
+         </void>
+         <void index="1">
+          <int>537</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="1">
+        <array class="int" length="3">
+         <void index="0">
+          <int>381</int>
+         </void>
+         <void index="1">
+          <int>537</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="2">
+        <array class="int" length="3">
+         <void index="0">
+          <int>381</int>
+         </void>
+         <void index="1">
+          <int>894</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="3">
+        <array class="int" length="3">
+         <void index="0">
+          <int>398</int>
+         </void>
+         <void index="1">
+          <int>554</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="4">
+        <array class="int" length="3">
+         <void index="0">
+          <int>398</int>
+         </void>
+         <void index="1">
+          <int>860</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="5">
+        <array class="int" length="3">
+         <void index="0">
+          <int>398</int>
+         </void>
+         <void index="1">
+          <int>877</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="6">
+        <array class="int" length="3">
+         <void index="0">
+          <int>415</int>
+         </void>
+         <void index="1">
+          <int>554</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="7">
+        <array class="int" length="3">
+         <void index="0">
+          <int>415</int>
+         </void>
+         <void index="1">
+          <int>860</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="8">
+        <array class="int" length="3">
+         <void index="0">
+          <int>432</int>
+         </void>
+         <void index="1">
+          <int>554</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="9">
+        <array class="int" length="3">
+         <void index="0">
+          <int>432</int>
+         </void>
+         <void index="1">
+          <int>843</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="10">
+        <array class="int" length="3">
+         <void index="0">
+          <int>432</int>
+         </void>
+         <void index="1">
+          <int>860</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="11">
+        <array class="int" length="3">
+         <void index="0">
+          <int>449</int>
+         </void>
+         <void index="1">
+          <int>571</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="12">
+        <array class="int" length="3">
+         <void index="0">
+          <int>449</int>
+         </void>
+         <void index="1">
+          <int>843</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="13">
+        <array class="int" length="3">
+         <void index="0">
+          <int>449</int>
+         </void>
+         <void index="1">
+          <int>860</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="14">
+        <array class="int" length="3">
+         <void index="0">
+          <int>466</int>
+         </void>
+         <void index="1">
+          <int>843</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="15">
+        <array class="int" length="3">
+         <void index="0">
+          <int>466</int>
+         </void>
+         <void index="1">
+          <int>860</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="16">
+        <array class="int" length="3">
+         <void index="0">
+          <int>466</int>
+         </void>
+         <void index="1">
+          <int>877</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="17">
+        <array class="int" length="3">
+         <void index="0">
+          <int>483</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="18">
+        <array class="int" length="3">
+         <void index="0">
+          <int>483</int>
+         </void>
+         <void index="1">
+          <int>843</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="19">
+        <array class="int" length="3">
+         <void index="0">
+          <int>483</int>
+         </void>
+         <void index="1">
+          <int>860</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="20">
+        <array class="int" length="3">
+         <void index="0">
+          <int>483</int>
+         </void>
+         <void index="1">
+          <int>877</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="21">
+        <array class="int" length="3">
+         <void index="0">
+          <int>568</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="22">
+        <array class="int" length="3">
+         <void index="0">
+          <int>568</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="23">
+        <array class="int" length="3">
+         <void index="0">
+          <int>568</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="24">
+        <array class="int" length="3">
+         <void index="0">
+          <int>568</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="25">
+        <array class="int" length="3">
+         <void index="0">
+          <int>568</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="26">
+        <array class="int" length="3">
+         <void index="0">
+          <int>568</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="27">
+        <array class="int" length="3">
+         <void index="0">
+          <int>568</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="28">
+        <array class="int" length="3">
+         <void index="0">
+          <int>585</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="29">
+        <array class="int" length="3">
+         <void index="0">
+          <int>585</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="30">
+        <array class="int" length="3">
+         <void index="0">
+          <int>585</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="31">
+        <array class="int" length="3">
+         <void index="0">
+          <int>585</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="32">
+        <array class="int" length="3">
+         <void index="0">
+          <int>585</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="33">
+        <array class="int" length="3">
+         <void index="0">
+          <int>585</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="34">
+        <array class="int" length="3">
+         <void index="0">
+          <int>585</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="35">
+        <array class="int" length="3">
+         <void index="0">
+          <int>585</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="36">
+        <array class="int" length="3">
+         <void index="0">
+          <int>602</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="37">
+        <array class="int" length="3">
+         <void index="0">
+          <int>602</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="38">
+        <array class="int" length="3">
+         <void index="0">
+          <int>602</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="39">
+        <array class="int" length="3">
+         <void index="0">
+          <int>602</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="40">
+        <array class="int" length="3">
+         <void index="0">
+          <int>602</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="41">
+        <array class="int" length="3">
+         <void index="0">
+          <int>602</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="42">
+        <array class="int" length="3">
+         <void index="0">
+          <int>602</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="43">
+        <array class="int" length="3">
+         <void index="0">
+          <int>602</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="44">
+        <array class="int" length="3">
+         <void index="0">
+          <int>602</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="45">
+        <array class="int" length="3">
+         <void index="0">
+          <int>602</int>
+         </void>
+         <void index="1">
+          <int>843</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="46">
+        <array class="int" length="3">
+         <void index="0">
+          <int>602</int>
+         </void>
+         <void index="1">
+          <int>860</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="47">
+        <array class="int" length="3">
+         <void index="0">
+          <int>619</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="48">
+        <array class="int" length="3">
+         <void index="0">
+          <int>619</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="49">
+        <array class="int" length="3">
+         <void index="0">
+          <int>619</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="50">
+        <array class="int" length="3">
+         <void index="0">
+          <int>619</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="51">
+        <array class="int" length="3">
+         <void index="0">
+          <int>619</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="52">
+        <array class="int" length="3">
+         <void index="0">
+          <int>619</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="53">
+        <array class="int" length="3">
+         <void index="0">
+          <int>619</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="54">
+        <array class="int" length="3">
+         <void index="0">
+          <int>619</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="55">
+        <array class="int" length="3">
+         <void index="0">
+          <int>619</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="56">
+        <array class="int" length="3">
+         <void index="0">
+          <int>619</int>
+         </void>
+         <void index="1">
+          <int>843</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="57">
+        <array class="int" length="3">
+         <void index="0">
+          <int>619</int>
+         </void>
+         <void index="1">
+          <int>860</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="58">
+        <array class="int" length="3">
+         <void index="0">
+          <int>636</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="59">
+        <array class="int" length="3">
+         <void index="0">
+          <int>636</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="60">
+        <array class="int" length="3">
+         <void index="0">
+          <int>636</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="61">
+        <array class="int" length="3">
+         <void index="0">
+          <int>636</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="62">
+        <array class="int" length="3">
+         <void index="0">
+          <int>636</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="63">
+        <array class="int" length="3">
+         <void index="0">
+          <int>636</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="64">
+        <array class="int" length="3">
+         <void index="0">
+          <int>636</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="65">
+        <array class="int" length="3">
+         <void index="0">
+          <int>636</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="66">
+        <array class="int" length="3">
+         <void index="0">
+          <int>636</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="67">
+        <array class="int" length="3">
+         <void index="0">
+          <int>636</int>
+         </void>
+         <void index="1">
+          <int>843</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="68">
+        <array class="int" length="3">
+         <void index="0">
+          <int>636</int>
+         </void>
+         <void index="1">
+          <int>860</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="69">
+        <array class="int" length="3">
+         <void index="0">
+          <int>653</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="70">
+        <array class="int" length="3">
+         <void index="0">
+          <int>653</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="71">
+        <array class="int" length="3">
+         <void index="0">
+          <int>653</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="72">
+        <array class="int" length="3">
+         <void index="0">
+          <int>653</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="73">
+        <array class="int" length="3">
+         <void index="0">
+          <int>653</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="74">
+        <array class="int" length="3">
+         <void index="0">
+          <int>653</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="75">
+        <array class="int" length="3">
+         <void index="0">
+          <int>653</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="76">
+        <array class="int" length="3">
+         <void index="0">
+          <int>653</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="77">
+        <array class="int" length="3">
+         <void index="0">
+          <int>653</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="78">
+        <array class="int" length="3">
+         <void index="0">
+          <int>653</int>
+         </void>
+         <void index="1">
+          <int>843</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="79">
+        <array class="int" length="3">
+         <void index="0">
+          <int>653</int>
+         </void>
+         <void index="1">
+          <int>860</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="80">
+        <array class="int" length="3">
+         <void index="0">
+          <int>670</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="81">
+        <array class="int" length="3">
+         <void index="0">
+          <int>670</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="82">
+        <array class="int" length="3">
+         <void index="0">
+          <int>670</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="83">
+        <array class="int" length="3">
+         <void index="0">
+          <int>670</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="84">
+        <array class="int" length="3">
+         <void index="0">
+          <int>670</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="85">
+        <array class="int" length="3">
+         <void index="0">
+          <int>670</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="86">
+        <array class="int" length="3">
+         <void index="0">
+          <int>670</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="87">
+        <array class="int" length="3">
+         <void index="0">
+          <int>670</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="88">
+        <array class="int" length="3">
+         <void index="0">
+          <int>670</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="89">
+        <array class="int" length="3">
+         <void index="0">
+          <int>670</int>
+         </void>
+         <void index="1">
+          <int>843</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="90">
+        <array class="int" length="3">
+         <void index="0">
+          <int>670</int>
+         </void>
+         <void index="1">
+          <int>860</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="91">
+        <array class="int" length="3">
+         <void index="0">
+          <int>687</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="92">
+        <array class="int" length="3">
+         <void index="0">
+          <int>687</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="93">
+        <array class="int" length="3">
+         <void index="0">
+          <int>687</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="94">
+        <array class="int" length="3">
+         <void index="0">
+          <int>687</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="95">
+        <array class="int" length="3">
+         <void index="0">
+          <int>687</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="96">
+        <array class="int" length="3">
+         <void index="0">
+          <int>687</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="97">
+        <array class="int" length="3">
+         <void index="0">
+          <int>687</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="98">
+        <array class="int" length="3">
+         <void index="0">
+          <int>687</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="99">
+        <array class="int" length="3">
+         <void index="0">
+          <int>687</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="100">
+        <array class="int" length="3">
+         <void index="0">
+          <int>687</int>
+         </void>
+         <void index="1">
+          <int>843</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="101">
+        <array class="int" length="3">
+         <void index="0">
+          <int>687</int>
+         </void>
+         <void index="1">
+          <int>860</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="102">
+        <array class="int" length="3">
+         <void index="0">
+          <int>687</int>
+         </void>
+         <void index="1">
+          <int>877</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="103">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="104">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="105">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="106">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="107">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="108">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="109">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="110">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="111">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>843</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="112">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>860</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="113">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>877</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="114">
+        <array class="int" length="3">
+         <void index="0">
+          <int>721</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="115">
+        <array class="int" length="3">
+         <void index="0">
+          <int>721</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="116">
+        <array class="int" length="3">
+         <void index="0">
+          <int>721</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="117">
+        <array class="int" length="3">
+         <void index="0">
+          <int>721</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="118">
+        <array class="int" length="3">
+         <void index="0">
+          <int>721</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="119">
+        <array class="int" length="3">
+         <void index="0">
+          <int>721</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="120">
+        <array class="int" length="3">
+         <void index="0">
+          <int>721</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="121">
+        <array class="int" length="3">
+         <void index="0">
+          <int>721</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="122">
+        <array class="int" length="3">
+         <void index="0">
+          <int>721</int>
+         </void>
+         <void index="1">
+          <int>843</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="123">
+        <array class="int" length="3">
+         <void index="0">
+          <int>721</int>
+         </void>
+         <void index="1">
+          <int>860</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="124">
+        <array class="int" length="3">
+         <void index="0">
+          <int>721</int>
+         </void>
+         <void index="1">
+          <int>877</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="125">
+        <array class="int" length="3">
+         <void index="0">
+          <int>738</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="126">
+        <array class="int" length="3">
+         <void index="0">
+          <int>738</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="127">
+        <array class="int" length="3">
+         <void index="0">
+          <int>738</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="128">
+        <array class="int" length="3">
+         <void index="0">
+          <int>738</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="129">
+        <array class="int" length="3">
+         <void index="0">
+          <int>738</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="130">
+        <array class="int" length="3">
+         <void index="0">
+          <int>738</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="131">
+        <array class="int" length="3">
+         <void index="0">
+          <int>738</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="132">
+        <array class="int" length="3">
+         <void index="0">
+          <int>738</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="133">
+        <array class="int" length="3">
+         <void index="0">
+          <int>738</int>
+         </void>
+         <void index="1">
+          <int>843</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="134">
+        <array class="int" length="3">
+         <void index="0">
+          <int>738</int>
+         </void>
+         <void index="1">
+          <int>860</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="135">
+        <array class="int" length="3">
+         <void index="0">
+          <int>738</int>
+         </void>
+         <void index="1">
+          <int>877</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="136">
+        <array class="int" length="3">
+         <void index="0">
+          <int>755</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="137">
+        <array class="int" length="3">
+         <void index="0">
+          <int>755</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="138">
+        <array class="int" length="3">
+         <void index="0">
+          <int>755</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="139">
+        <array class="int" length="3">
+         <void index="0">
+          <int>755</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="140">
+        <array class="int" length="3">
+         <void index="0">
+          <int>755</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="141">
+        <array class="int" length="3">
+         <void index="0">
+          <int>755</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="142">
+        <array class="int" length="3">
+         <void index="0">
+          <int>755</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="143">
+        <array class="int" length="3">
+         <void index="0">
+          <int>755</int>
+         </void>
+         <void index="1">
+          <int>843</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="144">
+        <array class="int" length="3">
+         <void index="0">
+          <int>755</int>
+         </void>
+         <void index="1">
+          <int>860</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="145">
+        <array class="int" length="3">
+         <void index="0">
+          <int>772</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="146">
+        <array class="int" length="3">
+         <void index="0">
+          <int>772</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="147">
+        <array class="int" length="3">
+         <void index="0">
+          <int>772</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="148">
+        <array class="int" length="3">
+         <void index="0">
+          <int>772</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="149">
+        <array class="int" length="3">
+         <void index="0">
+          <int>772</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="150">
+        <array class="int" length="3">
+         <void index="0">
+          <int>772</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="151">
+        <array class="int" length="3">
+         <void index="0">
+          <int>772</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="152">
+        <array class="int" length="3">
+         <void index="0">
+          <int>772</int>
+         </void>
+         <void index="1">
+          <int>843</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="153">
+        <array class="int" length="3">
+         <void index="0">
+          <int>789</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="154">
+        <array class="int" length="3">
+         <void index="0">
+          <int>789</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="155">
+        <array class="int" length="3">
+         <void index="0">
+          <int>789</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="156">
+        <array class="int" length="3">
+         <void index="0">
+          <int>789</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="157">
+        <array class="int" length="3">
+         <void index="0">
+          <int>789</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="158">
+        <array class="int" length="3">
+         <void index="0">
+          <int>789</int>
+         </void>
+         <void index="1">
+          <int>843</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="159">
+        <array class="int" length="3">
+         <void index="0">
+          <int>806</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="160">
+        <array class="int" length="3">
+         <void index="0">
+          <int>806</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="161">
+        <array class="int" length="3">
+         <void index="0">
+          <int>806</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="162">
+        <array class="int" length="3">
+         <void index="0">
+          <int>806</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="163">
+        <array class="int" length="3">
+         <void index="0">
+          <int>823</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="164">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1112</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="165">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1129</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="166">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1146</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="167">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1163</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="168">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1180</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="169">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1197</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="170">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1214</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="171">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1231</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="172">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1333</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="173">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1333</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="174">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1350</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="175">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1367</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="176">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1384</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="177">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1384</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="178">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1401</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="179">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1401</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+       <void index="180">
+        <array class="int" length="3">
+         <void index="0">
+          <int>1418</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>-1</int>
+         </void>
+        </array>
+       </void>
+      </array>
+     </void>
+     <void index="1">
+      <array class="[I" length="126">
+       <void index="0">
+        <array class="int" length="3">
+         <void index="0">
+          <int>585</int>
+         </void>
+         <void index="1">
+          <int>605</int>
+         </void>
+         <void index="2">
+          <int>164</int>
+         </void>
+        </array>
+       </void>
+       <void index="1">
+        <array class="int" length="3">
+         <void index="0">
+          <int>585</int>
+         </void>
+         <void index="1">
+          <int>622</int>
+         </void>
+         <void index="2">
+          <int>164</int>
+         </void>
+        </array>
+       </void>
+       <void index="2">
+        <array class="int" length="3">
+         <void index="0">
+          <int>585</int>
+         </void>
+         <void index="1">
+          <int>639</int>
+         </void>
+         <void index="2">
+          <int>163</int>
+         </void>
+        </array>
+       </void>
+       <void index="3">
+        <array class="int" length="3">
+         <void index="0">
+          <int>585</int>
+         </void>
+         <void index="1">
+          <int>656</int>
+         </void>
+         <void index="2">
+          <int>163</int>
+         </void>
+        </array>
+       </void>
+       <void index="4">
+        <array class="int" length="3">
+         <void index="0">
+          <int>585</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>163</int>
+         </void>
+        </array>
+       </void>
+       <void index="5">
+        <array class="int" length="3">
+         <void index="0">
+          <int>602</int>
+         </void>
+         <void index="1">
+          <int>605</int>
+         </void>
+         <void index="2">
+          <int>163</int>
+         </void>
+        </array>
+       </void>
+       <void index="6">
+        <array class="int" length="3">
+         <void index="0">
+          <int>602</int>
+         </void>
+         <void index="1">
+          <int>622</int>
+         </void>
+         <void index="2">
+          <int>163</int>
+         </void>
+        </array>
+       </void>
+       <void index="7">
+        <array class="int" length="3">
+         <void index="0">
+          <int>602</int>
+         </void>
+         <void index="1">
+          <int>639</int>
+         </void>
+         <void index="2">
+          <int>163</int>
+         </void>
+        </array>
+       </void>
+       <void index="8">
+        <array class="int" length="3">
+         <void index="0">
+          <int>602</int>
+         </void>
+         <void index="1">
+          <int>656</int>
+         </void>
+         <void index="2">
+          <int>163</int>
+         </void>
+        </array>
+       </void>
+       <void index="9">
+        <array class="int" length="3">
+         <void index="0">
+          <int>602</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>163</int>
+         </void>
+        </array>
+       </void>
+       <void index="10">
+        <array class="int" length="3">
+         <void index="0">
+          <int>619</int>
+         </void>
+         <void index="1">
+          <int>605</int>
+         </void>
+         <void index="2">
+          <int>164</int>
+         </void>
+        </array>
+       </void>
+       <void index="11">
+        <array class="int" length="3">
+         <void index="0">
+          <int>619</int>
+         </void>
+         <void index="1">
+          <int>622</int>
+         </void>
+         <void index="2">
+          <int>164</int>
+         </void>
+        </array>
+       </void>
+       <void index="12">
+        <array class="int" length="3">
+         <void index="0">
+          <int>619</int>
+         </void>
+         <void index="1">
+          <int>639</int>
+         </void>
+         <void index="2">
+          <int>164</int>
+         </void>
+        </array>
+       </void>
+       <void index="13">
+        <array class="int" length="3">
+         <void index="0">
+          <int>619</int>
+         </void>
+         <void index="1">
+          <int>656</int>
+         </void>
+         <void index="2">
+          <int>164</int>
+         </void>
+        </array>
+       </void>
+       <void index="14">
+        <array class="int" length="3">
+         <void index="0">
+          <int>619</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>164</int>
+         </void>
+        </array>
+       </void>
+       <void index="15">
+        <array class="int" length="3">
+         <void index="0">
+          <int>636</int>
+         </void>
+         <void index="1">
+          <int>605</int>
+         </void>
+         <void index="2">
+          <int>164</int>
+         </void>
+        </array>
+       </void>
+       <void index="16">
+        <array class="int" length="3">
+         <void index="0">
+          <int>636</int>
+         </void>
+         <void index="1">
+          <int>622</int>
+         </void>
+         <void index="2">
+          <int>164</int>
+         </void>
+        </array>
+       </void>
+       <void index="17">
+        <array class="int" length="3">
+         <void index="0">
+          <int>636</int>
+         </void>
+         <void index="1">
+          <int>639</int>
+         </void>
+         <void index="2">
+          <int>164</int>
+         </void>
+        </array>
+       </void>
+       <void index="18">
+        <array class="int" length="3">
+         <void index="0">
+          <int>636</int>
+         </void>
+         <void index="1">
+          <int>656</int>
+         </void>
+         <void index="2">
+          <int>164</int>
+         </void>
+        </array>
+       </void>
+       <void index="19">
+        <array class="int" length="3">
+         <void index="0">
+          <int>636</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>164</int>
+         </void>
+        </array>
+       </void>
+       <void index="20">
+        <array class="int" length="3">
+         <void index="0">
+          <int>653</int>
+         </void>
+         <void index="1">
+          <int>622</int>
+         </void>
+         <void index="2">
+          <int>164</int>
+         </void>
+        </array>
+       </void>
+       <void index="21">
+        <array class="int" length="3">
+         <void index="0">
+          <int>653</int>
+         </void>
+         <void index="1">
+          <int>639</int>
+         </void>
+         <void index="2">
+          <int>165</int>
+         </void>
+        </array>
+       </void>
+       <void index="22">
+        <array class="int" length="3">
+         <void index="0">
+          <int>653</int>
+         </void>
+         <void index="1">
+          <int>656</int>
+         </void>
+         <void index="2">
+          <int>165</int>
+         </void>
+        </array>
+       </void>
+       <void index="23">
+        <array class="int" length="3">
+         <void index="0">
+          <int>653</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>165</int>
+         </void>
+        </array>
+       </void>
+       <void index="24">
+        <array class="int" length="3">
+         <void index="0">
+          <int>670</int>
+         </void>
+         <void index="1">
+          <int>622</int>
+         </void>
+         <void index="2">
+          <int>165</int>
+         </void>
+        </array>
+       </void>
+       <void index="25">
+        <array class="int" length="3">
+         <void index="0">
+          <int>670</int>
+         </void>
+         <void index="1">
+          <int>639</int>
+         </void>
+         <void index="2">
+          <int>166</int>
+         </void>
+        </array>
+       </void>
+       <void index="26">
+        <array class="int" length="3">
+         <void index="0">
+          <int>670</int>
+         </void>
+         <void index="1">
+          <int>656</int>
+         </void>
+         <void index="2">
+          <int>166</int>
+         </void>
+        </array>
+       </void>
+       <void index="27">
+        <array class="int" length="3">
+         <void index="0">
+          <int>670</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>166</int>
+         </void>
+        </array>
+       </void>
+       <void index="28">
+        <array class="int" length="3">
+         <void index="0">
+          <int>687</int>
+         </void>
+         <void index="1">
+          <int>622</int>
+         </void>
+         <void index="2">
+          <int>167</int>
+         </void>
+        </array>
+       </void>
+       <void index="29">
+        <array class="int" length="3">
+         <void index="0">
+          <int>687</int>
+         </void>
+         <void index="1">
+          <int>639</int>
+         </void>
+         <void index="2">
+          <int>167</int>
+         </void>
+        </array>
+       </void>
+       <void index="30">
+        <array class="int" length="3">
+         <void index="0">
+          <int>687</int>
+         </void>
+         <void index="1">
+          <int>656</int>
+         </void>
+         <void index="2">
+          <int>168</int>
+         </void>
+        </array>
+       </void>
+       <void index="31">
+        <array class="int" length="3">
+         <void index="0">
+          <int>687</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>168</int>
+         </void>
+        </array>
+       </void>
+       <void index="32">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>605</int>
+         </void>
+         <void index="2">
+          <int>169</int>
+         </void>
+        </array>
+       </void>
+       <void index="33">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>622</int>
+         </void>
+         <void index="2">
+          <int>169</int>
+         </void>
+        </array>
+       </void>
+       <void index="34">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>639</int>
+         </void>
+         <void index="2">
+          <int>169</int>
+         </void>
+        </array>
+       </void>
+       <void index="35">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>656</int>
+         </void>
+         <void index="2">
+          <int>169</int>
+         </void>
+        </array>
+       </void>
+       <void index="36">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>169</int>
+         </void>
+        </array>
+       </void>
+       <void index="37">
+        <array class="int" length="3">
+         <void index="0">
+          <int>704</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>170</int>
+         </void>
+        </array>
+       </void>
+       <void index="38">
+        <array class="int" length="3">
+         <void index="0">
+          <int>721</int>
+         </void>
+         <void index="1">
+          <int>622</int>
+         </void>
+         <void index="2">
+          <int>169</int>
+         </void>
+        </array>
+       </void>
+       <void index="39">
+        <array class="int" length="3">
+         <void index="0">
+          <int>721</int>
+         </void>
+         <void index="1">
+          <int>639</int>
+         </void>
+         <void index="2">
+          <int>169</int>
+         </void>
+        </array>
+       </void>
+       <void index="40">
+        <array class="int" length="3">
+         <void index="0">
+          <int>721</int>
+         </void>
+         <void index="1">
+          <int>656</int>
+         </void>
+         <void index="2">
+          <int>169</int>
+         </void>
+        </array>
+       </void>
+       <void index="41">
+        <array class="int" length="3">
+         <void index="0">
+          <int>721</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>169</int>
+         </void>
+        </array>
+       </void>
+       <void index="42">
+        <array class="int" length="3">
+         <void index="0">
+          <int>721</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>169</int>
+         </void>
+        </array>
+       </void>
+       <void index="43">
+        <array class="int" length="3">
+         <void index="0">
+          <int>738</int>
+         </void>
+         <void index="1">
+          <int>639</int>
+         </void>
+         <void index="2">
+          <int>168</int>
+         </void>
+        </array>
+       </void>
+       <void index="44">
+        <array class="int" length="3">
+         <void index="0">
+          <int>738</int>
+         </void>
+         <void index="1">
+          <int>656</int>
+         </void>
+         <void index="2">
+          <int>168</int>
+         </void>
+        </array>
+       </void>
+       <void index="45">
+        <array class="int" length="3">
+         <void index="0">
+          <int>738</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>168</int>
+         </void>
+        </array>
+       </void>
+       <void index="46">
+        <array class="int" length="3">
+         <void index="0">
+          <int>738</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>168</int>
+         </void>
+        </array>
+       </void>
+       <void index="47">
+        <array class="int" length="3">
+         <void index="0">
+          <int>755</int>
+         </void>
+         <void index="1">
+          <int>639</int>
+         </void>
+         <void index="2">
+          <int>167</int>
+         </void>
+        </array>
+       </void>
+       <void index="48">
+        <array class="int" length="3">
+         <void index="0">
+          <int>755</int>
+         </void>
+         <void index="1">
+          <int>656</int>
+         </void>
+         <void index="2">
+          <int>167</int>
+         </void>
+        </array>
+       </void>
+       <void index="49">
+        <array class="int" length="3">
+         <void index="0">
+          <int>755</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>167</int>
+         </void>
+        </array>
+       </void>
+       <void index="50">
+        <array class="int" length="3">
+         <void index="0">
+          <int>755</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>167</int>
+         </void>
+        </array>
+       </void>
+       <void index="51">
+        <array class="int" length="3">
+         <void index="0">
+          <int>755</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>166</int>
+         </void>
+        </array>
+       </void>
+       <void index="52">
+        <array class="int" length="3">
+         <void index="0">
+          <int>772</int>
+         </void>
+         <void index="1">
+          <int>639</int>
+         </void>
+         <void index="2">
+          <int>166</int>
+         </void>
+        </array>
+       </void>
+       <void index="53">
+        <array class="int" length="3">
+         <void index="0">
+          <int>772</int>
+         </void>
+         <void index="1">
+          <int>656</int>
+         </void>
+         <void index="2">
+          <int>166</int>
+         </void>
+        </array>
+       </void>
+       <void index="54">
+        <array class="int" length="3">
+         <void index="0">
+          <int>772</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>166</int>
+         </void>
+        </array>
+       </void>
+       <void index="55">
+        <array class="int" length="3">
+         <void index="0">
+          <int>772</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>166</int>
+         </void>
+        </array>
+       </void>
+       <void index="56">
+        <array class="int" length="3">
+         <void index="0">
+          <int>772</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>165</int>
+         </void>
+        </array>
+       </void>
+       <void index="57">
+        <array class="int" length="3">
+         <void index="0">
+          <int>789</int>
+         </void>
+         <void index="1">
+          <int>656</int>
+         </void>
+         <void index="2">
+          <int>165</int>
+         </void>
+        </array>
+       </void>
+       <void index="58">
+        <array class="int" length="3">
+         <void index="0">
+          <int>789</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>165</int>
+         </void>
+        </array>
+       </void>
+       <void index="59">
+        <array class="int" length="3">
+         <void index="0">
+          <int>789</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>164</int>
+         </void>
+        </array>
+       </void>
+       <void index="60">
+        <array class="int" length="3">
+         <void index="0">
+          <int>789</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>163</int>
+         </void>
+        </array>
+       </void>
+       <void index="61">
+        <array class="int" length="3">
+         <void index="0">
+          <int>789</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>170</int>
+         </void>
+        </array>
+       </void>
+       <void index="62">
+        <array class="int" length="3">
+         <void index="0">
+          <int>789</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>168</int>
+         </void>
+        </array>
+       </void>
+       <void index="63">
+        <array class="int" length="3">
+         <void index="0">
+          <int>806</int>
+         </void>
+         <void index="1">
+          <int>656</int>
+         </void>
+         <void index="2">
+          <int>164</int>
+         </void>
+        </array>
+       </void>
+       <void index="64">
+        <array class="int" length="3">
+         <void index="0">
+          <int>806</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>163</int>
+         </void>
+        </array>
+       </void>
+       <void index="65">
+        <array class="int" length="3">
+         <void index="0">
+          <int>806</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>163</int>
+         </void>
+        </array>
+       </void>
+       <void index="66">
+        <array class="int" length="3">
+         <void index="0">
+          <int>806</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>162</int>
+         </void>
+        </array>
+       </void>
+       <void index="67">
+        <array class="int" length="3">
+         <void index="0">
+          <int>806</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>178</int>
+         </void>
+        </array>
+       </void>
+       <void index="68">
+        <array class="int" length="3">
+         <void index="0">
+          <int>806</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>177</int>
+         </void>
+        </array>
+       </void>
+       <void index="69">
+        <array class="int" length="3">
+         <void index="0">
+          <int>806</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>174</int>
+         </void>
+        </array>
+       </void>
+       <void index="70">
+        <array class="int" length="3">
+         <void index="0">
+          <int>823</int>
+         </void>
+         <void index="1">
+          <int>656</int>
+         </void>
+         <void index="2">
+          <int>170</int>
+         </void>
+        </array>
+       </void>
+       <void index="71">
+        <array class="int" length="3">
+         <void index="0">
+          <int>823</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>171</int>
+         </void>
+        </array>
+       </void>
+       <void index="72">
+        <array class="int" length="3">
+         <void index="0">
+          <int>823</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>171</int>
+         </void>
+        </array>
+       </void>
+       <void index="73">
+        <array class="int" length="3">
+         <void index="0">
+          <int>823</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>172</int>
+         </void>
+        </array>
+       </void>
+       <void index="74">
+        <array class="int" length="3">
+         <void index="0">
+          <int>823</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>174</int>
+         </void>
+        </array>
+       </void>
+       <void index="75">
+        <array class="int" length="3">
+         <void index="0">
+          <int>823</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>179</int>
+         </void>
+        </array>
+       </void>
+       <void index="76">
+        <array class="int" length="3">
+         <void index="0">
+          <int>823</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>179</int>
+         </void>
+        </array>
+       </void>
+       <void index="77">
+        <array class="int" length="3">
+         <void index="0">
+          <int>823</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>178</int>
+         </void>
+        </array>
+       </void>
+       <void index="78">
+        <array class="int" length="3">
+         <void index="0">
+          <int>823</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>167</int>
+         </void>
+        </array>
+       </void>
+       <void index="79">
+        <array class="int" length="3">
+         <void index="0">
+          <int>823</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>166</int>
+         </void>
+        </array>
+       </void>
+       <void index="80">
+        <array class="int" length="3">
+         <void index="0">
+          <int>840</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>173</int>
+         </void>
+        </array>
+       </void>
+       <void index="81">
+        <array class="int" length="3">
+         <void index="0">
+          <int>840</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>173</int>
+         </void>
+        </array>
+       </void>
+       <void index="82">
+        <array class="int" length="3">
+         <void index="0">
+          <int>840</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>173</int>
+         </void>
+        </array>
+       </void>
+       <void index="83">
+        <array class="int" length="3">
+         <void index="0">
+          <int>840</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>174</int>
+         </void>
+        </array>
+       </void>
+       <void index="84">
+        <array class="int" length="3">
+         <void index="0">
+          <int>840</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+        </array>
+       </void>
+       <void index="85">
+        <array class="int" length="3">
+         <void index="0">
+          <int>840</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+        </array>
+       </void>
+       <void index="86">
+        <array class="int" length="3">
+         <void index="0">
+          <int>840</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>179</int>
+         </void>
+        </array>
+       </void>
+       <void index="87">
+        <array class="int" length="3">
+         <void index="0">
+          <int>840</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>178</int>
+         </void>
+        </array>
+       </void>
+       <void index="88">
+        <array class="int" length="3">
+         <void index="0">
+          <int>840</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>166</int>
+         </void>
+        </array>
+       </void>
+       <void index="89">
+        <array class="int" length="3">
+         <void index="0">
+          <int>840</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>166</int>
+         </void>
+        </array>
+       </void>
+       <void index="90">
+        <array class="int" length="3">
+         <void index="0">
+          <int>857</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>174</int>
+         </void>
+        </array>
+       </void>
+       <void index="91">
+        <array class="int" length="3">
+         <void index="0">
+          <int>857</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>174</int>
+         </void>
+        </array>
+       </void>
+       <void index="92">
+        <array class="int" length="3">
+         <void index="0">
+          <int>857</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>174</int>
+         </void>
+        </array>
+       </void>
+       <void index="93">
+        <array class="int" length="3">
+         <void index="0">
+          <int>857</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>175</int>
+         </void>
+        </array>
+       </void>
+       <void index="94">
+        <array class="int" length="3">
+         <void index="0">
+          <int>857</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+        </array>
+       </void>
+       <void index="95">
+        <array class="int" length="3">
+         <void index="0">
+          <int>857</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+        </array>
+       </void>
+       <void index="96">
+        <array class="int" length="3">
+         <void index="0">
+          <int>857</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>167</int>
+         </void>
+        </array>
+       </void>
+       <void index="97">
+        <array class="int" length="3">
+         <void index="0">
+          <int>857</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>179</int>
+         </void>
+        </array>
+       </void>
+       <void index="98">
+        <array class="int" length="3">
+         <void index="0">
+          <int>857</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>165</int>
+         </void>
+        </array>
+       </void>
+       <void index="99">
+        <array class="int" length="3">
+         <void index="0">
+          <int>857</int>
+         </void>
+         <void index="1">
+          <int>826</int>
+         </void>
+         <void index="2">
+          <int>165</int>
+         </void>
+        </array>
+       </void>
+       <void index="100">
+        <array class="int" length="3">
+         <void index="0">
+          <int>874</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>175</int>
+         </void>
+        </array>
+       </void>
+       <void index="101">
+        <array class="int" length="3">
+         <void index="0">
+          <int>874</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>175</int>
+         </void>
+        </array>
+       </void>
+       <void index="102">
+        <array class="int" length="3">
+         <void index="0">
+          <int>874</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>175</int>
+         </void>
+        </array>
+       </void>
+       <void index="103">
+        <array class="int" length="3">
+         <void index="0">
+          <int>874</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>176</int>
+         </void>
+        </array>
+       </void>
+       <void index="104">
+        <array class="int" length="3">
+         <void index="0">
+          <int>874</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>1</int>
+         </void>
+        </array>
+       </void>
+       <void index="105">
+        <array class="int" length="3">
+         <void index="0">
+          <int>874</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>1</int>
+         </void>
+        </array>
+       </void>
+       <void index="106">
+        <array class="int" length="3">
+         <void index="0">
+          <int>874</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+        </array>
+       </void>
+       <void index="107">
+        <array class="int" length="3">
+         <void index="0">
+          <int>874</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>179</int>
+         </void>
+        </array>
+       </void>
+       <void index="108">
+        <array class="int" length="3">
+         <void index="0">
+          <int>874</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>165</int>
+         </void>
+        </array>
+       </void>
+       <void index="109">
+        <array class="int" length="3">
+         <void index="0">
+          <int>891</int>
+         </void>
+         <void index="1">
+          <int>656</int>
+         </void>
+         <void index="2">
+          <int>176</int>
+         </void>
+        </array>
+       </void>
+       <void index="110">
+        <array class="int" length="3">
+         <void index="0">
+          <int>891</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>176</int>
+         </void>
+        </array>
+       </void>
+       <void index="111">
+        <array class="int" length="3">
+         <void index="0">
+          <int>891</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>176</int>
+         </void>
+        </array>
+       </void>
+       <void index="112">
+        <array class="int" length="3">
+         <void index="0">
+          <int>891</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>176</int>
+         </void>
+        </array>
+       </void>
+       <void index="113">
+        <array class="int" length="3">
+         <void index="0">
+          <int>891</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>176</int>
+         </void>
+        </array>
+       </void>
+       <void index="114">
+        <array class="int" length="3">
+         <void index="0">
+          <int>891</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>1</int>
+         </void>
+        </array>
+       </void>
+       <void index="115">
+        <array class="int" length="3">
+         <void index="0">
+          <int>891</int>
+         </void>
+         <void index="1">
+          <int>758</int>
+         </void>
+         <void index="2">
+          <int>1</int>
+         </void>
+        </array>
+       </void>
+       <void index="116">
+        <array class="int" length="3">
+         <void index="0">
+          <int>891</int>
+         </void>
+         <void index="1">
+          <int>775</int>
+         </void>
+         <void index="2">
+          <int>1</int>
+         </void>
+        </array>
+       </void>
+       <void index="117">
+        <array class="int" length="3">
+         <void index="0">
+          <int>891</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>165</int>
+         </void>
+        </array>
+       </void>
+       <void index="118">
+        <array class="int" length="3">
+         <void index="0">
+          <int>891</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>165</int>
+         </void>
+        </array>
+       </void>
+       <void index="119">
+        <array class="int" length="3">
+         <void index="0">
+          <int>908</int>
+         </void>
+         <void index="1">
+          <int>673</int>
+         </void>
+         <void index="2">
+          <int>176</int>
+         </void>
+        </array>
+       </void>
+       <void index="120">
+        <array class="int" length="3">
+         <void index="0">
+          <int>908</int>
+         </void>
+         <void index="1">
+          <int>690</int>
+         </void>
+         <void index="2">
+          <int>176</int>
+         </void>
+        </array>
+       </void>
+       <void index="121">
+        <array class="int" length="3">
+         <void index="0">
+          <int>908</int>
+         </void>
+         <void index="1">
+          <int>707</int>
+         </void>
+         <void index="2">
+          <int>176</int>
+         </void>
+        </array>
+       </void>
+       <void index="122">
+        <array class="int" length="3">
+         <void index="0">
+          <int>908</int>
+         </void>
+         <void index="1">
+          <int>724</int>
+         </void>
+         <void index="2">
+          <int>176</int>
+         </void>
+        </array>
+       </void>
+       <void index="123">
+        <array class="int" length="3">
+         <void index="0">
+          <int>908</int>
+         </void>
+         <void index="1">
+          <int>741</int>
+         </void>
+         <void index="2">
+          <int>2</int>
+         </void>
+        </array>
+       </void>
+       <void index="124">
+        <array class="int" length="3">
+         <void index="0">
+          <int>908</int>
+         </void>
+         <void index="1">
+          <int>792</int>
+         </void>
+         <void index="2">
+          <int>165</int>
+         </void>
+        </array>
+       </void>
+       <void index="125">
+        <array class="int" length="3">
+         <void index="0">
+          <int>908</int>
+         </void>
+         <void index="1">
+          <int>809</int>
+         </void>
+         <void index="2">
+          <int>165</int>
+         </void>
+        </array>
+       </void>
+      </array>
+     </void>
+    </array>
+   </void>
+  </void>
+  <void property="path">
+   <string>/Users/ybok6692/USYD/ToMaCo/24hrs_hMSCs/part3/nucleus/124.tif</string>
+  </void>
+  <void property="shape">
+   <object class="core.cell.ShapeContainer" id="ShapeContainer0">
+    <void property="areas">
+     <void method="add">
+      <object class="core.cell.CellShape">
+       <void property="area">
+        <double>47531.0</double>
+       </void>
+       <void property="aspectRatio">
+        <long>1530495</long>
+       </void>
+       <void property="bounds">
+        <object class="java.awt.Rectangle" id="Rectangle0">
+         <void class="java.awt.Rectangle" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Rectangle0"/>
+           <int>542</int>
+          </void>
+         </void>
+         <void class="java.awt.Rectangle" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Rectangle0"/>
+           <int>631</int>
+          </void>
+         </void>
+         <void class="java.awt.Rectangle" method="getField">
+          <string>width</string>
+          <void method="set">
+           <object idref="Rectangle0"/>
+           <int>413</int>
+          </void>
+         </void>
+         <void class="java.awt.Rectangle" method="getField">
+          <string>height</string>
+          <void method="set">
+           <object idref="Rectangle0"/>
+           <int>222</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="center">
+        <object class="java.awt.Point" id="Point89">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point89"/>
+           <int>490</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point89"/>
+           <int>250</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="excursion">
+        <long>137173</long>
+       </void>
+       <void property="longHalfAxis">
+        <long>152170159</long>
+       </void>
+       <void property="newOrderParameter">
+        <long>483311</long>
+       </void>
+       <void property="newOrientation">
+        <long>11315532</long>
+       </void>
+       <void property="orderParameter">
+        <long>407408</long>
+       </void>
+       <void property="orientation">
+        <long>175042114</long>
+       </void>
+      </object>
+     </void>
+    </void>
+    <void property="extAreas">
+     <void method="add">
+      <object class="core.cell.CellShape">
+       <void property="area">
+        <double>128216.0</double>
+       </void>
+       <void property="aspectRatio">
+        <long>2632482</long>
+       </void>
+       <void property="bounds">
+        <object class="java.awt.Rectangle" id="Rectangle1">
+         <void class="java.awt.Rectangle" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Rectangle1"/>
+           <int>348</int>
+          </void>
+         </void>
+         <void class="java.awt.Rectangle" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Rectangle1"/>
+           <int>527</int>
+          </void>
+         </void>
+         <void class="java.awt.Rectangle" method="getField">
+          <string>width</string>
+          <void method="set">
+           <object idref="Rectangle1"/>
+           <int>1101</int>
+          </void>
+         </void>
+         <void class="java.awt.Rectangle" method="getField">
+          <string>height</string>
+          <void method="set">
+           <object idref="Rectangle1"/>
+           <int>390</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="center">
+        <object class="java.awt.Point" id="Point90">
+         <void class="java.awt.Point" method="getField">
+          <string>x</string>
+          <void method="set">
+           <object idref="Point90"/>
+           <int>496</int>
+          </void>
+         </void>
+         <void class="java.awt.Point" method="getField">
+          <string>y</string>
+          <void method="set">
+           <object idref="Point90"/>
+           <int>254</int>
+          </void>
+         </void>
+        </object>
+       </void>
+       <void property="excursion">
+        <long>252526</long>
+       </void>
+       <void property="longHalfAxis">
+        <long>327777305</long>
+       </void>
+       <void property="newOrderParameter">
+        <long>-1000000000</long>
+       </void>
+       <void property="newOrientation">
+        <long>-1000000000</long>
+       </void>
+       <void property="orderParameter">
+        <long>-1000000000</long>
+       </void>
+       <void property="orientation">
+        <long>2142554</long>
+       </void>
+      </object>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

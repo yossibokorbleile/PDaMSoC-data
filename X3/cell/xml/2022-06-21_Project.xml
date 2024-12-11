@@ -1,0 +1,2000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="18.0.1.1" class="java.beans.XMLDecoder">
+ <object class="core.ProjectData" id="ProjectData0">
+  <void property="SCsvPath">
+   <string>csv</string>
+  </void>
+  <void property="SImageFiles">
+   <void method="add">
+    <string>099.tif</string>
+   </void>
+   <void method="add">
+    <string>259.tif</string>
+   </void>
+   <void method="add">
+    <string>265.tif</string>
+   </void>
+   <void method="add">
+    <string>271.tif</string>
+   </void>
+   <void method="add">
+    <string>067.tif</string>
+   </void>
+   <void method="add">
+    <string>073.tif</string>
+   </void>
+   <void method="add">
+    <string>113.tif</string>
+   </void>
+   <void method="add">
+    <string>107.tif</string>
+   </void>
+   <void method="add">
+    <string>111.tif</string>
+   </void>
+   <void method="add">
+    <string>105.tif</string>
+   </void>
+   <void method="add">
+    <string>139.tif</string>
+   </void>
+   <void method="add">
+    <string>065.tif</string>
+   </void>
+   <void method="add">
+    <string>071.tif</string>
+   </void>
+   <void method="add">
+    <string>059.tif</string>
+   </void>
+   <void method="add">
+    <string>267.tif</string>
+   </void>
+   <void method="add">
+    <string>273.tif</string>
+   </void>
+   <void method="add">
+    <string>277.tif</string>
+   </void>
+   <void method="add">
+    <string>263.tif</string>
+   </void>
+   <void method="add">
+    <string>075.tif</string>
+   </void>
+   <void method="add">
+    <string>061.tif</string>
+   </void>
+   <void method="add">
+    <string>049.tif</string>
+   </void>
+   <void method="add">
+    <string>101.tif</string>
+   </void>
+   <void method="add">
+    <string>115.tif</string>
+   </void>
+   <void method="add">
+    <string>129.tif</string>
+   </void>
+   <void method="add">
+    <string>103.tif</string>
+   </void>
+   <void method="add">
+    <string>117.tif</string>
+   </void>
+   <void method="add">
+    <string>077.tif</string>
+   </void>
+   <void method="add">
+    <string>063.tif</string>
+   </void>
+   <void method="add">
+    <string>249.tif</string>
+   </void>
+   <void method="add">
+    <string>275.tif</string>
+   </void>
+   <void method="add">
+    <string>261.tif</string>
+   </void>
+   <void method="add">
+    <string>089.tif</string>
+   </void>
+   <void method="add">
+    <string>165.tif</string>
+   </void>
+   <void method="add">
+    <string>171.tif</string>
+   </void>
+   <void method="add">
+    <string>159.tif</string>
+   </void>
+   <void method="add">
+    <string>011.tif</string>
+   </void>
+   <void method="add">
+    <string>005.tif</string>
+   </void>
+   <void method="add">
+    <string>039.tif</string>
+   </void>
+   <void method="add">
+    <string>213.tif</string>
+   </void>
+   <void method="add">
+    <string>207.tif</string>
+   </void>
+   <void method="add">
+    <string>199.tif</string>
+   </void>
+   <void method="add">
+    <string>239.tif</string>
+   </void>
+   <void method="add">
+    <string>211.tif</string>
+   </void>
+   <void method="add">
+    <string>205.tif</string>
+   </void>
+   <void method="add">
+    <string>013.tif</string>
+   </void>
+   <void method="add">
+    <string>007.tif</string>
+   </void>
+   <void method="add">
+    <string>167.tif</string>
+   </void>
+   <void method="add">
+    <string>173.tif</string>
+   </void>
+   <void method="add">
+    <string>177.tif</string>
+   </void>
+   <void method="add">
+    <string>163.tif</string>
+   </void>
+   <void method="add">
+    <string>003.tif</string>
+   </void>
+   <void method="add">
+    <string>017.tif</string>
+   </void>
+   <void method="add">
+    <string>229.tif</string>
+   </void>
+   <void method="add">
+    <string>201.tif</string>
+   </void>
+   <void method="add">
+    <string>215.tif</string>
+   </void>
+   <void method="add">
+    <string>189.tif</string>
+   </void>
+   <void method="add">
+    <string>203.tif</string>
+   </void>
+   <void method="add">
+    <string>217.tif</string>
+   </void>
+   <void method="add">
+    <string>001.tif</string>
+   </void>
+   <void method="add">
+    <string>015.tif</string>
+   </void>
+   <void method="add">
+    <string>029.tif</string>
+   </void>
+   <void method="add">
+    <string>175.tif</string>
+   </void>
+   <void method="add">
+    <string>161.tif</string>
+   </void>
+   <void method="add">
+    <string>149.tif</string>
+   </void>
+   <void method="add">
+    <string>187.tif</string>
+   </void>
+   <void method="add">
+    <string>193.tif</string>
+   </void>
+   <void method="add">
+    <string>227.tif</string>
+   </void>
+   <void method="add">
+    <string>233.tif</string>
+   </void>
+   <void method="add">
+    <string>019.tif</string>
+   </void>
+   <void method="add">
+    <string>025.tif</string>
+   </void>
+   <void method="add">
+    <string>031.tif</string>
+   </void>
+   <void method="add">
+    <string>179.tif</string>
+   </void>
+   <void method="add">
+    <string>151.tif</string>
+   </void>
+   <void method="add">
+    <string>145.tif</string>
+   </void>
+   <void method="add">
+    <string>153.tif</string>
+   </void>
+   <void method="add">
+    <string>147.tif</string>
+   </void>
+   <void method="add">
+    <string>027.tif</string>
+   </void>
+   <void method="add">
+    <string>033.tif</string>
+   </void>
+   <void method="add">
+    <string>225.tif</string>
+   </void>
+   <void method="add">
+    <string>231.tif</string>
+   </void>
+   <void method="add">
+    <string>219.tif</string>
+   </void>
+   <void method="add">
+    <string>185.tif</string>
+   </void>
+   <void method="add">
+    <string>191.tif</string>
+   </void>
+   <void method="add">
+    <string>195.tif</string>
+   </void>
+   <void method="add">
+    <string>181.tif</string>
+   </void>
+   <void method="add">
+    <string>235.tif</string>
+   </void>
+   <void method="add">
+    <string>221.tif</string>
+   </void>
+   <void method="add">
+    <string>209.tif</string>
+   </void>
+   <void method="add">
+    <string>037.tif</string>
+   </void>
+   <void method="add">
+    <string>023.tif</string>
+   </void>
+   <void method="add">
+    <string>143.tif</string>
+   </void>
+   <void method="add">
+    <string>157.tif</string>
+   </void>
+   <void method="add">
+    <string>169.tif</string>
+   </void>
+   <void method="add">
+    <string>141.tif</string>
+   </void>
+   <void method="add">
+    <string>155.tif</string>
+   </void>
+   <void method="add">
+    <string>009.tif</string>
+   </void>
+   <void method="add">
+    <string>035.tif</string>
+   </void>
+   <void method="add">
+    <string>021.tif</string>
+   </void>
+   <void method="add">
+    <string>237.tif</string>
+   </void>
+   <void method="add">
+    <string>223.tif</string>
+   </void>
+   <void method="add">
+    <string>197.tif</string>
+   </void>
+   <void method="add">
+    <string>183.tif</string>
+   </void>
+   <void method="add">
+    <string>127.tif</string>
+   </void>
+   <void method="add">
+    <string>133.tif</string>
+   </void>
+   <void method="add">
+    <string>053.tif</string>
+   </void>
+   <void method="add">
+    <string>047.tif</string>
+   </void>
+   <void method="add">
+    <string>251.tif</string>
+   </void>
+   <void method="add">
+    <string>245.tif</string>
+   </void>
+   <void method="add">
+    <string>085.tif</string>
+   </void>
+   <void method="add">
+    <string>091.tif</string>
+   </void>
+   <void method="add">
+    <string>087.tif</string>
+   </void>
+   <void method="add">
+    <string>093.tif</string>
+   </void>
+   <void method="add">
+    <string>253.tif</string>
+   </void>
+   <void method="add">
+    <string>247.tif</string>
+   </void>
+   <void method="add">
+    <string>079.tif</string>
+   </void>
+   <void method="add">
+    <string>051.tif</string>
+   </void>
+   <void method="add">
+    <string>045.tif</string>
+   </void>
+   <void method="add">
+    <string>119.tif</string>
+   </void>
+   <void method="add">
+    <string>125.tif</string>
+   </void>
+   <void method="add">
+    <string>131.tif</string>
+   </void>
+   <void method="add">
+    <string>109.tif</string>
+   </void>
+   <void method="add">
+    <string>135.tif</string>
+   </void>
+   <void method="add">
+    <string>121.tif</string>
+   </void>
+   <void method="add">
+    <string>069.tif</string>
+   </void>
+   <void method="add">
+    <string>041.tif</string>
+   </void>
+   <void method="add">
+    <string>055.tif</string>
+   </void>
+   <void method="add">
+    <string>243.tif</string>
+   </void>
+   <void method="add">
+    <string>257.tif</string>
+   </void>
+   <void method="add">
+    <string>097.tif</string>
+   </void>
+   <void method="add">
+    <string>083.tif</string>
+   </void>
+   <void method="add">
+    <string>095.tif</string>
+   </void>
+   <void method="add">
+    <string>081.tif</string>
+   </void>
+   <void method="add">
+    <string>241.tif</string>
+   </void>
+   <void method="add">
+    <string>255.tif</string>
+   </void>
+   <void method="add">
+    <string>269.tif</string>
+   </void>
+   <void method="add">
+    <string>043.tif</string>
+   </void>
+   <void method="add">
+    <string>057.tif</string>
+   </void>
+   <void method="add">
+    <string>137.tif</string>
+   </void>
+   <void method="add">
+    <string>123.tif</string>
+   </void>
+  </void>
+  <void property="SImageOutputFiles">
+   <void method="add">
+    <string>099.tif</string>
+   </void>
+   <void method="add">
+    <string>259.tif</string>
+   </void>
+   <void method="add">
+    <string>265.tif</string>
+   </void>
+   <void method="add">
+    <string>271.tif</string>
+   </void>
+   <void method="add">
+    <string>067.tif</string>
+   </void>
+   <void method="add">
+    <string>073.tif</string>
+   </void>
+   <void method="add">
+    <string>113.tif</string>
+   </void>
+   <void method="add">
+    <string>107.tif</string>
+   </void>
+   <void method="add">
+    <string>111.tif</string>
+   </void>
+   <void method="add">
+    <string>105.tif</string>
+   </void>
+   <void method="add">
+    <string>139.tif</string>
+   </void>
+   <void method="add">
+    <string>065.tif</string>
+   </void>
+   <void method="add">
+    <string>071.tif</string>
+   </void>
+   <void method="add">
+    <string>059.tif</string>
+   </void>
+   <void method="add">
+    <string>267.tif</string>
+   </void>
+   <void method="add">
+    <string>273.tif</string>
+   </void>
+   <void method="add">
+    <string>277.tif</string>
+   </void>
+   <void method="add">
+    <string>263.tif</string>
+   </void>
+   <void method="add">
+    <string>075.tif</string>
+   </void>
+   <void method="add">
+    <string>061.tif</string>
+   </void>
+   <void method="add">
+    <string>049.tif</string>
+   </void>
+   <void method="add">
+    <string>101.tif</string>
+   </void>
+   <void method="add">
+    <string>115.tif</string>
+   </void>
+   <void method="add">
+    <string>129.tif</string>
+   </void>
+   <void method="add">
+    <string>103.tif</string>
+   </void>
+   <void method="add">
+    <string>117.tif</string>
+   </void>
+   <void method="add">
+    <string>077.tif</string>
+   </void>
+   <void method="add">
+    <string>063.tif</string>
+   </void>
+   <void method="add">
+    <string>249.tif</string>
+   </void>
+   <void method="add">
+    <string>275.tif</string>
+   </void>
+   <void method="add">
+    <string>261.tif</string>
+   </void>
+   <void method="add">
+    <string>089.tif</string>
+   </void>
+   <void method="add">
+    <string>165.tif</string>
+   </void>
+   <void method="add">
+    <string>171.tif</string>
+   </void>
+   <void method="add">
+    <string>159.tif</string>
+   </void>
+   <void method="add">
+    <string>011.tif</string>
+   </void>
+   <void method="add">
+    <string>005.tif</string>
+   </void>
+   <void method="add">
+    <string>039.tif</string>
+   </void>
+   <void method="add">
+    <string>213.tif</string>
+   </void>
+   <void method="add">
+    <string>207.tif</string>
+   </void>
+   <void method="add">
+    <string>199.tif</string>
+   </void>
+   <void method="add">
+    <string>239.tif</string>
+   </void>
+   <void method="add">
+    <string>211.tif</string>
+   </void>
+   <void method="add">
+    <string>205.tif</string>
+   </void>
+   <void method="add">
+    <string>013.tif</string>
+   </void>
+   <void method="add">
+    <string>007.tif</string>
+   </void>
+   <void method="add">
+    <string>167.tif</string>
+   </void>
+   <void method="add">
+    <string>173.tif</string>
+   </void>
+   <void method="add">
+    <string>177.tif</string>
+   </void>
+   <void method="add">
+    <string>163.tif</string>
+   </void>
+   <void method="add">
+    <string>003.tif</string>
+   </void>
+   <void method="add">
+    <string>017.tif</string>
+   </void>
+   <void method="add">
+    <string>229.tif</string>
+   </void>
+   <void method="add">
+    <string>201.tif</string>
+   </void>
+   <void method="add">
+    <string>215.tif</string>
+   </void>
+   <void method="add">
+    <string>189.tif</string>
+   </void>
+   <void method="add">
+    <string>203.tif</string>
+   </void>
+   <void method="add">
+    <string>217.tif</string>
+   </void>
+   <void method="add">
+    <string>001.tif</string>
+   </void>
+   <void method="add">
+    <string>015.tif</string>
+   </void>
+   <void method="add">
+    <string>029.tif</string>
+   </void>
+   <void method="add">
+    <string>175.tif</string>
+   </void>
+   <void method="add">
+    <string>161.tif</string>
+   </void>
+   <void method="add">
+    <string>149.tif</string>
+   </void>
+   <void method="add">
+    <string>187.tif</string>
+   </void>
+   <void method="add">
+    <string>193.tif</string>
+   </void>
+   <void method="add">
+    <string>227.tif</string>
+   </void>
+   <void method="add">
+    <string>233.tif</string>
+   </void>
+   <void method="add">
+    <string>019.tif</string>
+   </void>
+   <void method="add">
+    <string>025.tif</string>
+   </void>
+   <void method="add">
+    <string>031.tif</string>
+   </void>
+   <void method="add">
+    <string>179.tif</string>
+   </void>
+   <void method="add">
+    <string>151.tif</string>
+   </void>
+   <void method="add">
+    <string>145.tif</string>
+   </void>
+   <void method="add">
+    <string>153.tif</string>
+   </void>
+   <void method="add">
+    <string>147.tif</string>
+   </void>
+   <void method="add">
+    <string>027.tif</string>
+   </void>
+   <void method="add">
+    <string>033.tif</string>
+   </void>
+   <void method="add">
+    <string>225.tif</string>
+   </void>
+   <void method="add">
+    <string>231.tif</string>
+   </void>
+   <void method="add">
+    <string>219.tif</string>
+   </void>
+   <void method="add">
+    <string>185.tif</string>
+   </void>
+   <void method="add">
+    <string>191.tif</string>
+   </void>
+   <void method="add">
+    <string>195.tif</string>
+   </void>
+   <void method="add">
+    <string>181.tif</string>
+   </void>
+   <void method="add">
+    <string>235.tif</string>
+   </void>
+   <void method="add">
+    <string>221.tif</string>
+   </void>
+   <void method="add">
+    <string>209.tif</string>
+   </void>
+   <void method="add">
+    <string>037.tif</string>
+   </void>
+   <void method="add">
+    <string>023.tif</string>
+   </void>
+   <void method="add">
+    <string>143.tif</string>
+   </void>
+   <void method="add">
+    <string>157.tif</string>
+   </void>
+   <void method="add">
+    <string>169.tif</string>
+   </void>
+   <void method="add">
+    <string>141.tif</string>
+   </void>
+   <void method="add">
+    <string>155.tif</string>
+   </void>
+   <void method="add">
+    <string>009.tif</string>
+   </void>
+   <void method="add">
+    <string>035.tif</string>
+   </void>
+   <void method="add">
+    <string>021.tif</string>
+   </void>
+   <void method="add">
+    <string>237.tif</string>
+   </void>
+   <void method="add">
+    <string>223.tif</string>
+   </void>
+   <void method="add">
+    <string>197.tif</string>
+   </void>
+   <void method="add">
+    <string>183.tif</string>
+   </void>
+   <void method="add">
+    <string>127.tif</string>
+   </void>
+   <void method="add">
+    <string>133.tif</string>
+   </void>
+   <void method="add">
+    <string>053.tif</string>
+   </void>
+   <void method="add">
+    <string>047.tif</string>
+   </void>
+   <void method="add">
+    <string>251.tif</string>
+   </void>
+   <void method="add">
+    <string>245.tif</string>
+   </void>
+   <void method="add">
+    <string>085.tif</string>
+   </void>
+   <void method="add">
+    <string>091.tif</string>
+   </void>
+   <void method="add">
+    <string>087.tif</string>
+   </void>
+   <void method="add">
+    <string>093.tif</string>
+   </void>
+   <void method="add">
+    <string>253.tif</string>
+   </void>
+   <void method="add">
+    <string>247.tif</string>
+   </void>
+   <void method="add">
+    <string>079.tif</string>
+   </void>
+   <void method="add">
+    <string>051.tif</string>
+   </void>
+   <void method="add">
+    <string>045.tif</string>
+   </void>
+   <void method="add">
+    <string>119.tif</string>
+   </void>
+   <void method="add">
+    <string>125.tif</string>
+   </void>
+   <void method="add">
+    <string>131.tif</string>
+   </void>
+   <void method="add">
+    <string>109.tif</string>
+   </void>
+   <void method="add">
+    <string>135.tif</string>
+   </void>
+   <void method="add">
+    <string>121.tif</string>
+   </void>
+   <void method="add">
+    <string>069.tif</string>
+   </void>
+   <void method="add">
+    <string>041.tif</string>
+   </void>
+   <void method="add">
+    <string>055.tif</string>
+   </void>
+   <void method="add">
+    <string>243.tif</string>
+   </void>
+   <void method="add">
+    <string>257.tif</string>
+   </void>
+   <void method="add">
+    <string>097.tif</string>
+   </void>
+   <void method="add">
+    <string>083.tif</string>
+   </void>
+   <void method="add">
+    <string>095.tif</string>
+   </void>
+   <void method="add">
+    <string>081.tif</string>
+   </void>
+   <void method="add">
+    <string>241.tif</string>
+   </void>
+   <void method="add">
+    <string>255.tif</string>
+   </void>
+   <void method="add">
+    <string>269.tif</string>
+   </void>
+   <void method="add">
+    <string>043.tif</string>
+   </void>
+   <void method="add">
+    <string>057.tif</string>
+   </void>
+   <void method="add">
+    <string>137.tif</string>
+   </void>
+   <void method="add">
+    <string>123.tif</string>
+   </void>
+  </void>
+  <void property="SImageOutputPath">
+   <string>img</string>
+  </void>
+  <void property="SImagePath">
+   <string></string>
+  </void>
+  <void property="SRootDir">
+   <string>/Users/ybok6692/USYD/ToMaCo/24hrs_hMSCs/part3/cell</string>
+  </void>
+  <void property="SXmlFiles">
+   <void method="add">
+    <string>xml/189.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/003.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/017.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/229.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/201.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/215.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/177.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/163.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/175.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/161.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/149.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/203.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/217.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/001.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/015.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/029.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/011.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/005.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/039.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/213.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/207.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/165.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/171.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/159.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/167.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/173.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/239.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/211.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/205.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/013.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/007.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/199.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/101.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/115.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/129.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/277.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/263.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/075.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/061.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/049.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/089.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/077.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/063.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/249.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/275.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/261.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/103.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/117.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/113.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/107.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/259.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/265.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/271.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/067.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/073.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/099.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/065.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/071.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/059.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/267.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/273.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/111.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/105.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/139.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/097.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/083.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/069.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/041.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/055.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/243.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/257.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/109.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/135.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/121.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/137.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/123.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/241.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/255.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/269.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/043.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/057.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/095.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/081.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/085.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/091.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/053.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/047.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/251.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/245.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/127.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/133.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/119.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/125.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/131.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/253.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/247.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/079.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/051.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/045.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/087.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/093.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/143.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/157.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/235.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/221.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/209.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/037.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/023.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/195.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/181.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/197.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/183.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/009.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/035.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/021.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/237.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/223.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/169.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/141.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/155.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/179.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/151.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/145.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/227.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/233.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/019.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/025.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/031.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/187.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/193.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/185.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/191.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/027.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/033.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/225.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/231.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/219.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/153.xml</string>
+   </void>
+   <void method="add">
+    <string>xml/147.xml</string>
+   </void>
+  </void>
+  <void property="SXmlPath">
+   <string>xml</string>
+  </void>
+  <void property="plugin">
+   <object class="core.cell.plugins.CellPluginBenjamin"/>
+  </void>
+  <void property="settings">
+   <void property="serializeableParams">
+    <object class="java.util.HashMap">
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Elog</class>
+       <string>contrast</string>
+      </object>
+      <int>100</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Batch</class>
+       <string>determineOrientationFields</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Batch</class>
+       <string>restrictAreaChanges</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.FocAdh</class>
+       <string>faTrackingArea</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Elog</class>
+       <string>orientations</string>
+      </object>
+      <int>18</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>black</string>
+      </object>
+      <int>-1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Hough</class>
+       <string>orientations</string>
+      </object>
+      <int>179</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Chain</class>
+       <string>gap_skew_max</string>
+      </object>
+      <int>20</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.WiZer</class>
+       <string>sample_size</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Trace</class>
+       <string>curve</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>lpmask</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Elog</class>
+       <string>tolerance</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.SFTracking</class>
+       <string>chkExistsInMin</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Hough</class>
+       <string>minmean</string>
+      </object>
+      <int>50</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.SFTracking</class>
+       <string>factor_angle</string>
+      </object>
+      <int>4</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.WiZer</class>
+       <string>log_view</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.FocAdh</class>
+       <string>bothEnds</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Chain</class>
+       <string>skew_max</string>
+      </object>
+      <int>15</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Export</class>
+       <string>hideMultiUsedFAs</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Chain</class>
+       <string>dist_max_gap</string>
+      </object>
+      <int>2</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.FocAdh</class>
+       <string>doFillHoles</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Ori</class>
+       <string>min_area</string>
+      </object>
+      <int>50</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Elog</class>
+       <string>image</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>scale</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Export</class>
+       <string>hideSingleUsedFAs</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.FocAdh</class>
+       <string>doClosing</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Batch</class>
+       <string>calculateFingerprints</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Bin</class>
+       <string>radius</string>
+      </object>
+      <int>3</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>corr_zero</string>
+      </object>
+      <int>35</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Batch</class>
+       <string>saveExcursionImages</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Batch</class>
+       <string>color</string>
+      </object>
+      <int>-29696</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.SFTracking</class>
+       <string>chkExistsInMax</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Elog</class>
+       <string>sigma_x</string>
+      </object>
+      <int>100</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Eval</class>
+       <string>matchMinPixels</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>corr_mask_size</string>
+      </object>
+      <int>3</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>order</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Bin</class>
+       <string>rm_sng_px</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.SFTracking</class>
+       <string>length</string>
+      </object>
+      <int>10</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Elog</class>
+       <string>input</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>min_area</string>
+      </object>
+      <int>50</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Bin</class>
+       <string>is_area_or_ext</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>line_sigma</string>
+      </object>
+      <int>50</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.SFTracking</class>
+       <string>existsInMin</string>
+      </object>
+      <int>4</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.ATracking</class>
+       <string>chkExistsInMin</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Trace</class>
+       <string>minangle</string>
+      </object>
+      <int>20</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.SFTracking</class>
+       <string>max_dist</string>
+      </object>
+      <int>15</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.ATracking</class>
+       <string>chkExistsInMax</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Export</class>
+       <string>hideNonVerifiedFibers</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>cross_corr</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>rm_sng_px</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Elog</class>
+       <string>threshold</string>
+      </object>
+      <int>-1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>lg_with_mask</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Bin</class>
+       <string>area_significance</string>
+      </object>
+      <int>100</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.ATracking</class>
+       <string>intersectTolerance</string>
+      </object>
+      <int>50</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Bin</class>
+       <string>method</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>white</string>
+      </object>
+      <int>-1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Trace</class>
+       <string>no_boundary</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Batch</class>
+       <string>doSingleFilamentTracking</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.FocAdh</class>
+       <string>showOnlyFoundFA</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Elog</class>
+       <string>zero_crossings</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Trace</class>
+       <string>minlen</string>
+      </object>
+      <int>30</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.ATracking</class>
+       <string>existsInMin</string>
+      </object>
+      <int>4</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Eval</class>
+       <string>createImage</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Bin</class>
+       <string>rod_significance</string>
+      </object>
+      <int>40</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.SFTracking</class>
+       <string>factor_length</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Trace</class>
+       <string>split</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>do_gauss</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Batch</class>
+       <string>exportAreaOutline</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Batch</class>
+       <string>postProcessOrientationFields</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.FocAdh</class>
+       <string>maxSize</string>
+      </object>
+      <int>10000</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Bin</class>
+       <string>thicken</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>preview</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Trace</class>
+       <string>step</string>
+      </object>
+      <int>10</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.SFTracking</class>
+       <string>existsInMax</string>
+      </object>
+      <int>7</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Export</class>
+       <string>hideUnusedFAs</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Bin</class>
+       <string>sigma</string>
+      </object>
+      <int>20</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>minbright</string>
+      </object>
+      <int>5</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>min_range</string>
+      </object>
+      <int>30</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Chain</class>
+       <string>dist_max</string>
+      </object>
+      <int>10</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Hough</class>
+       <string>sigma</string>
+      </object>
+      <int>100</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Bin</class>
+       <string>minmean</string>
+      </object>
+      <int>25</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.ATracking</class>
+       <string>existsInMax</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>do_line_gauss</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>do_laplace</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.FocAdh</class>
+       <string>minSize</string>
+      </object>
+      <int>27</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Elog</class>
+       <string>sigma_y</string>
+      </object>
+      <int>7</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>lpfac</string>
+      </object>
+      <int>20</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Bin</class>
+       <string>restrict</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.FocAdh</class>
+       <string>neighborHoodSize</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Load</class>
+       <string>keepBitRange</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Hough</class>
+       <string>image</string>
+      </object>
+      <int>2</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.SFTracking</class>
+       <string>combineMultiMatches</string>
+      </object>
+      <int>1</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Export</class>
+       <string>hideMultiVerifiedFibers</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>widths</string>
+      </object>
+      <int>3</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Eval</class>
+       <string>thickenLines</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Ori</class>
+       <string>min_filaments</string>
+      </object>
+      <int>5</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Batch</class>
+       <string>saveOrientationFieldImages</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>fsigma</string>
+      </object>
+      <int>10</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Pre</class>
+       <string>contrast</string>
+      </object>
+      <int>0</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Trace</class>
+       <string>tolerance</string>
+      </object>
+      <int>5</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.FocAdh</class>
+       <string>maxClusterAmount</string>
+      </object>
+      <int>1300</int>
+     </void>
+     <void method="put">
+      <object class="java.lang.Enum" method="valueOf">
+       <class>core.settings.Export</class>
+       <string>hideSingleVerifiedFibers</string>
+      </object>
+      <int>0</int>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

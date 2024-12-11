@@ -1,0 +1,10 @@
+June 21, 2022 11:28:06 AM core.BatchProcessor initBasic
+INFO: initBasic(60,117,java.awt.Dimension[width=1455,height=1584])
+June 21, 2022 11:28:06 AM core.BatchProcessor initBasic
+INFO: finished initBasic
+June 21, 2022 11:28:23 AM core.BatchProcessor initBasic
+INFO: initBasic(60,57,java.awt.Dimension[width=1455,height=1584])
+June 21, 2022 11:28:23 AM core.BatchProcessor initBasic
+INFO: finished initBasic
+June 21, 2022 11:28:39 AM core.BatchProcessor batchProcessPostProcess
+INFO: orientation Field post processing for directory
