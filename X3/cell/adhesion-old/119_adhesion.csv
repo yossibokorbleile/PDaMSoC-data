@@ -1,3 +1,0 @@
-#FocalAdhesion's CSV 
-#number,center_x,center_y,length_x,length_y,area,aspect_ratio,orientation,main_axis_start_x,main_axis_start_y,main_axis_end_x,main_axis_end_y,side_axis_start_x,side_axis_start_y,side_axis_end_x,side_axis_end_y,keep
-0,610.0,307.0,112.44998888394787,96.25612334360235,7412,1.1682372505543237,0.16076274062583473,555.0,298.0,666.0,316.0,609.0,258.0,593.5921708185053,353.0149466192171,1
