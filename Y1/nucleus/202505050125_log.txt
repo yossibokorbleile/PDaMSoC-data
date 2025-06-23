@@ -1,0 +1,102 @@
+May 05, 2025 1:25:12 PM core.BatchProcessor initBasic
+INFO: initBasic(4,100,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:25:12 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:25:17 PM core.BatchProcessor initBasic
+INFO: initBasic(4,96,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:25:17 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:25:20 PM core.BatchProcessor initBasic
+INFO: initBasic(4,92,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:25:20 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:25:25 PM core.BatchProcessor initBasic
+INFO: initBasic(4,88,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:25:25 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:25:31 PM core.BatchProcessor initBasic
+INFO: initBasic(4,84,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:25:31 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:25:36 PM core.BatchProcessor initBasic
+INFO: initBasic(4,80,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:25:36 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:25:41 PM core.BatchProcessor initBasic
+INFO: initBasic(4,76,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:25:41 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:25:46 PM core.BatchProcessor initBasic
+INFO: initBasic(4,72,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:25:46 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:25:51 PM core.BatchProcessor initBasic
+INFO: initBasic(4,68,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:25:51 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:25:55 PM core.BatchProcessor initBasic
+INFO: initBasic(4,64,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:25:55 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:26:03 PM core.BatchProcessor initBasic
+INFO: initBasic(4,60,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:26:03 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:26:06 PM core.BatchProcessor initBasic
+INFO: initBasic(4,56,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:26:06 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:26:11 PM core.BatchProcessor initBasic
+INFO: initBasic(4,52,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:26:11 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:26:15 PM core.BatchProcessor initBasic
+INFO: initBasic(4,48,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:26:15 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:26:20 PM core.BatchProcessor initBasic
+INFO: initBasic(4,44,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:26:20 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:26:24 PM core.BatchProcessor initBasic
+INFO: initBasic(4,40,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:26:24 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:26:29 PM core.BatchProcessor initBasic
+INFO: initBasic(4,36,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:26:29 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:26:35 PM core.BatchProcessor initBasic
+INFO: initBasic(4,32,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:26:35 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:26:40 PM core.BatchProcessor initBasic
+INFO: initBasic(4,28,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:26:40 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:26:47 PM core.BatchProcessor initBasic
+INFO: initBasic(4,24,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:26:47 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:26:52 PM core.BatchProcessor initBasic
+INFO: initBasic(4,20,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:26:52 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:26:57 PM core.BatchProcessor initBasic
+INFO: initBasic(4,16,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:26:57 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:27:02 PM core.BatchProcessor initBasic
+INFO: initBasic(4,12,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:27:02 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:27:05 PM core.BatchProcessor initBasic
+INFO: initBasic(4,8,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:27:05 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:27:10 PM core.BatchProcessor initBasic
+INFO: initBasic(4,4,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 1:27:10 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 1:27:15 PM core.BatchProcessor batchProcessPostProcess
+INFO: orientation Field post processing for directory

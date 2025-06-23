@@ -1,0 +1,198 @@
+May 05, 2025 12:36:54 PM core.BatchProcessor initBasic
+INFO: initBasic(50,200,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 12:36:54 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 12:37:55 PM core.BatchProcessor initBasic
+INFO: initBasic(50,150,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 12:37:56 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 12:38:56 PM core.BatchProcessor initBasic
+INFO: initBasic(50,100,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 12:38:57 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 12:39:36 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:39:36 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/310_interior.png
+May 05, 2025 12:39:36 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:39:36 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/310_interior.png
+May 05, 2025 12:40:26 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:40:26 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/301_interior.png
+May 05, 2025 12:40:26 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:40:26 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/301_interior.png
+May 05, 2025 12:40:55 PM core.BatchProcessor initBasic
+INFO: initBasic(50,50,java.awt.Dimension[width=1226,height=1088])
+May 05, 2025 12:40:56 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+May 05, 2025 12:41:54 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:41:54 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/304_interior.png
+May 05, 2025 12:41:54 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:41:54 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/304_interior.png
+May 05, 2025 12:41:54 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:41:54 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/304_interior.png
+May 05, 2025 12:41:56 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:41:56 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/103_interior.png
+May 05, 2025 12:41:56 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:41:56 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/103_interior.png
+May 05, 2025 12:41:56 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:41:56 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/103_interior.png
+May 05, 2025 12:41:56 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:41:56 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/103_interior.png
+May 05, 2025 12:42:06 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:42:06 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/202_interior.png
+May 05, 2025 12:42:58 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:42:58 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:42:58 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:42:58 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:42:58 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:42:58 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:42:58 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:42:58 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:42:59 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:42:59 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:43:17 PM core.BatchProcessor batchProcessPostProcess
+INFO: orientation Field post processing for directory
+May 05, 2025 12:43:36 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:43:36 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/310_interior.png
+May 05, 2025 12:43:36 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:43:36 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/310_interior.png
+May 05, 2025 12:43:41 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:43:41 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/103_interior.png
+May 05, 2025 12:43:41 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:43:41 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/103_interior.png
+May 05, 2025 12:43:41 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:43:41 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/103_interior.png
+May 05, 2025 12:43:41 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:43:41 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/103_interior.png
+May 05, 2025 12:59:42 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:42 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/202_interior.png
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/304_interior.png
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/304_interior.png
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/304_interior.png
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/304_interior.png
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/304_interior.png
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:45 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/304_interior.png
+May 05, 2025 12:59:51 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:51 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:59:51 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:51 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:59:51 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:51 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:59:51 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:51 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
+May 05, 2025 12:59:51 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+May 05, 2025 12:59:51 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossi/Documents/Maths/Projects/QUSAGeT/Helawt_glass_fibronectin_23042025/FS2/actin/img/303_interior.png
