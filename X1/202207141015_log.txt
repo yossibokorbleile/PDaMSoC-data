@@ -1,0 +1,302 @@
+Jul. 14, 2022 10:15:18 AM core.BatchProcessor initBasic
+INFO: initBasic(30,281,java.awt.Dimension[width=1500,height=1692])
+Jul. 14, 2022 10:15:19 AM core.BatchProcessor initBasic
+INFO: finished initBasic
+Jul. 14, 2022 10:16:48 AM core.BatchProcessor initBasic
+INFO: initBasic(30,251,java.awt.Dimension[width=1500,height=1692])
+Jul. 14, 2022 10:16:48 AM core.BatchProcessor initBasic
+INFO: finished initBasic
+Jul. 14, 2022 10:18:04 AM core.BatchProcessor initBasic
+INFO: initBasic(30,221,java.awt.Dimension[width=1500,height=1692])
+Jul. 14, 2022 10:18:04 AM core.BatchProcessor initBasic
+INFO: finished initBasic
+Jul. 14, 2022 10:19:10 AM core.BatchProcessor initBasic
+INFO: initBasic(30,191,java.awt.Dimension[width=1500,height=1692])
+Jul. 14, 2022 10:19:10 AM core.BatchProcessor initBasic
+INFO: finished initBasic
+Jul. 14, 2022 10:20:46 AM core.BatchProcessor initBasic
+INFO: initBasic(30,161,java.awt.Dimension[width=1500,height=1692])
+Jul. 14, 2022 10:20:47 AM core.BatchProcessor initBasic
+INFO: finished initBasic
+Jul. 14, 2022 10:22:17 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:22:17 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/123_interior.png
+Jul. 14, 2022 10:22:22 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:22:22 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/171_interior.png
+Jul. 14, 2022 10:22:22 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:22:22 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/171_interior.png
+Jul. 14, 2022 10:23:02 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:23:02 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/013_interior.png
+Jul. 14, 2022 10:23:04 AM core.BatchProcessor initBasic
+INFO: initBasic(30,131,java.awt.Dimension[width=1500,height=1692])
+Jul. 14, 2022 10:23:04 AM core.BatchProcessor initBasic
+INFO: finished initBasic
+Jul. 14, 2022 10:24:06 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:24:06 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/063_interior.png
+Jul. 14, 2022 10:24:11 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:24:11 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/137_interior.png
+Jul. 14, 2022 10:24:12 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:24:12 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/137_interior.png
+Jul. 14, 2022 10:24:22 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:24:22 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/107_interior.png
+Jul. 14, 2022 10:24:22 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:24:22 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/107_interior.png
+Jul. 14, 2022 10:24:22 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:24:22 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/107_interior.png
+Jul. 14, 2022 10:24:25 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:24:25 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/229_interior.png
+Jul. 14, 2022 10:24:26 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:24:26 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/177_interior.png
+Jul. 14, 2022 10:24:29 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:24:29 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/065_interior.png
+Jul. 14, 2022 10:25:04 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:25:04 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/007_interior.png
+Jul. 14, 2022 10:25:04 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:25:04 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/031_interior.png
+Jul. 14, 2022 10:25:05 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:25:05 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/031_interior.png
+Jul. 14, 2022 10:25:07 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:25:07 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/165_interior.png
+Jul. 14, 2022 10:25:08 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:25:08 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/071_interior.png
+Jul. 14, 2022 10:25:08 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:25:08 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/071_interior.png
+Jul. 14, 2022 10:25:19 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:25:19 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/047_interior.png
+Jul. 14, 2022 10:25:19 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:25:19 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/047_interior.png
+Jul. 14, 2022 10:25:19 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:25:19 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/047_interior.png
+Jul. 14, 2022 10:25:27 AM core.BatchProcessor initBasic
+INFO: initBasic(30,101,java.awt.Dimension[width=1500,height=1692])
+Jul. 14, 2022 10:25:28 AM core.BatchProcessor initBasic
+INFO: finished initBasic
+Jul. 14, 2022 10:53:44 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:53:44 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/253_interior.png
+Jul. 14, 2022 10:53:47 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:53:47 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/207_interior.png
+Jul. 14, 2022 10:53:48 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:53:48 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/207_interior.png
+Jul. 14, 2022 10:53:50 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:53:50 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/265_interior.png
+Jul. 14, 2022 10:53:50 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:53:50 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/265_interior.png
+Jul. 14, 2022 10:54:11 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:54:11 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/247_interior.png
+Jul. 14, 2022 10:54:11 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:54:11 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/247_interior.png
+Jul. 14, 2022 10:54:11 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:54:11 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/247_interior.png
+Jul. 14, 2022 10:54:13 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:54:13 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/169_interior.png
+Jul. 14, 2022 10:54:15 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:54:15 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/223_interior.png
+Jul. 14, 2022 10:54:15 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 10:54:15 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/223_interior.png
+Jul. 14, 2022 11:03:53 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:03:53 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/223_interior.png
+Jul. 14, 2022 11:04:00 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:04:00 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/263_interior.png
+Jul. 14, 2022 11:04:10 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:04:10 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/191_interior.png
+Jul. 14, 2022 11:04:19 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:04:19 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/069_interior.png
+Jul. 14, 2022 11:04:34 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:04:34 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/019_interior.png
+Jul. 14, 2022 11:04:34 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:04:34 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/019_interior.png
+Jul. 14, 2022 11:04:54 AM core.BatchProcessor initBasic
+INFO: initBasic(30,71,java.awt.Dimension[width=1500,height=1692])
+Jul. 14, 2022 11:04:55 AM core.BatchProcessor initBasic
+INFO: finished initBasic
+Jul. 14, 2022 11:28:54 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:28:54 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/233_interior.png
+Jul. 14, 2022 11:29:53 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:29:53 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/221_interior.png
+Jul. 14, 2022 11:29:54 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:29:54 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/205_interior.png
+Jul. 14, 2022 11:29:54 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:29:54 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/205_interior.png
+Jul. 14, 2022 11:29:55 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:29:55 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/205_interior.png
+Jul. 14, 2022 11:29:55 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:29:55 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/205_interior.png
+Jul. 14, 2022 11:30:25 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:30:25 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/261_interior.png
+Jul. 14, 2022 11:51:38 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:51:38 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/095_interior.png
+Jul. 14, 2022 11:51:39 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:51:39 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/095_interior.png
+Jul. 14, 2022 11:51:40 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:51:40 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/193_interior.png
+Jul. 14, 2022 11:51:40 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:51:40 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/193_interior.png
+Jul. 14, 2022 11:51:46 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:51:46 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/273_interior.png
+Jul. 14, 2022 11:51:46 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 11:51:46 AM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/273_interior.png
+Jul. 14, 2022 12:00:00 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 12:00:00 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/039_interior.png
+Jul. 14, 2022 12:00:18 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 12:00:18 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/181_interior.png
+Jul. 14, 2022 12:00:38 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 12:00:38 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/087_interior.png
+Jul. 14, 2022 12:01:08 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 12:01:08 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/049_interior.png
+Jul. 14, 2022 12:01:08 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 12:01:08 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/049_interior.png
+Jul. 14, 2022 12:01:09 PM core.BatchProcessor initBasic
+INFO: initBasic(30,41,java.awt.Dimension[width=1500,height=1692])
+Jul. 14, 2022 12:01:11 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+Jul. 14, 2022 1:30:03 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 1:30:03 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/099_interior.png
+Jul. 14, 2022 1:30:04 PM core.BatchProcessor initBasic
+INFO: initBasic(30,11,java.awt.Dimension[width=1500,height=1692])
+Jul. 14, 2022 1:30:04 PM core.BatchProcessor initBasic
+INFO: finished initBasic
+Jul. 14, 2022 1:35:04 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 1:35:04 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/117_interior.png
+Jul. 14, 2022 1:35:15 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 1:35:15 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/105_interior.png
+Jul. 14, 2022 1:35:16 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 1:35:16 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/105_interior.png
+Jul. 14, 2022 1:35:22 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 1:35:22 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/027_interior.png
+Jul. 14, 2022 1:35:23 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 1:35:23 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/145_interior.png
+Jul. 14, 2022 1:35:23 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: No shape found!
+Jul. 14, 2022 1:35:23 PM core.BatchProcessor lambda$getLogger$1
+SEVERE: Current(Image):/Users/yossibokor/USYD/ToMaCo/24hrs_hMSCs/part1/cell/img/145_interior.png
+Jul. 14, 2022 1:36:37 PM core.FilamentSensor debugPerformance
+INFO: getDistanceMatrices():60.314s
+Jul. 14, 2022 1:36:37 PM core.FilamentSensor debugPerformance
+INFO: For Loop DataTracking.findSolitaryFilaments:0.092s
+Jul. 14, 2022 1:36:40 PM core.FilamentSensor debugPerformance
+INFO: TrackFilaments:forLoop:0.039s

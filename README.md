@@ -9,6 +9,8 @@ To run the notebook, the following Python packages will need to be installed:
 - numpy
 - matplotlib
 
+There are four directories, `X1`, `X2`, `X3`, and `Y1`. 
+
 In the directory `X1` are the files relating to data set $X1$ analysed in the paper. For each cell, there are two files, one contained in the `X1/nucleus` directory and the other in the `X1/cell` directory. The `.tif` files in `X1/nucleus` are all even numbers, and the files `X1/cell` are all odd numbers, with the nucleus `(n).tiff` corresponding to the file `(n+1).tiff`, where leading `0`'s are added to make `(n)` and `(n+1)` are three digit numbers. 
 
 In the directory `Y1` are the files relating to the data set $Y1$ analysed in the paper. For each cell, there are two files, one contained in the `Y1/nucleus` directory and the other in the `Y1/cell` directory. The file names are the same for the nucleus and cell images. 
