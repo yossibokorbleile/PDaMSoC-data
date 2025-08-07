@@ -9,13 +9,13 @@ To run the notebook, the following Python packages will need to be installed:
 - numpy
 - matplotlib
 
-There are four directories, `X1`, `X2`, `X3`, and `Y1`. 
+There are four directories, `X1`, `X2`, `X3`, and `Y1`. In each directory, there are sub-directories `cell` and `nucleus`, and a file `Nuc_Cm_{DIRECTORY}.csv`, which contains the coordinates of the center of mass for each nucleus. 
 
-In the directory `X1` are the files relating to data set $X1$ analysed in the paper. For each cell, there are two files, one contained in the `X1/nucleus` directory and the other in the `X1/cell` directory. The `.tif` files in `X1/nucleus` are all even numbers, and the files `X1/cell` are all odd numbers, with the nucleus `(n).tiff` corresponding to the file `(n+1).tiff`, where leading `0`'s are added to make `(n)` and `(n+1)` are three digit numbers. 
+The datasets `X1`, `X2`, `X3` consist of adult human mesenchymal stem cells (hMSCs) purchased from Lonza $\#PT-2501$ Basel, Switzerland, and `Y1` consists of HeLa cells Leibniz Institute, DSMZ, ACC 57, RRID:CVCL 0030, see `Materials and Methods` section of [Persistence diagrams as morphological signatures of cells: A method to measure and compare cells within a population](https://files.yossi.eu/manuscripts/2310.20644.pdf) for more information about how the were cultured, and how the images were obtained.
 
-In the directory `Y1` are the files relating to the data set $Y1$ analysed in the paper. For each cell, there are two files, one contained in the `Y1/nucleus` directory and the other in the `Y1/cell` directory. The file names are the same for the nucleus and cell images. 
+In `cell`, there is folder `raw_images` which contains the raw image as a `.tif` file for each cell, and in `contours` there is a `.csv` containing the contour of the cell as obtained using [FilamentSensor2](https://filament-sensor.de/). It is important to note that [FilamentSensor2](https://filament-sensor.de/) will produce many more files, including ones with `interior_contour` in the name, which we do not use in our analysis, and have thus not included in this repository. 
 
-These `.tif` files can be processed with [FilamentSensor](https://filament-sensor.de/) to obtain the `.csv` files in `{dataset}/cell/csv_contour` and `{dataset}/nucleus/csv_contour`, which for convenience are contained in this repository.  Using the files in `X1/nucleus` we can also obtain the center of the nucleus for each cell, which is contained in `{dataset}/Nuc_Cm_{dataset}.csv`.
+In `nucleus` there is a single sub-directory `raw_images` which contains a `.tif` file for each cell. Within in main directory `X1`, `X2`, `X3` and `Y1` each file has a unique ID, which is used in all files related to it. In paricular, the `.tif` files have the same names, but are in different sub-directories.
 
 With all of this data, we used the Python package [Correa](correa.yossi.eu) to obtain a persistence diagram for each cell, using the center of the nucleus for the base of the radial filtration function. After this, we constructed a (dis)similarity matrix using the $2$-Wasserstein distance as our (dis)similarity score, before using  agglomerative hierarchical clustering analysis (HCA) with four different linkage schemes: 
 
