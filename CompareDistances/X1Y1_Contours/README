@@ -1,0 +1,22 @@
+% Patrice Koehl, November 22 2025
+%
+%
+This directory contains all the data files for the 240 cell contours
+in the data set X1Y1:
+
+1) List of contours:
+=====================
+
+   list_X1Y1
+
+   Ordering of the cells in X1Y1. 
+
+2) All contours
+================
+
+   Each file is a 2 column data file (with a space between
+   the 2 columns), each line providing the coordinates of
+   one point in the contour.
+
+   Note that the coordinates are in pixels and need to be scaled
+   to a physical unit

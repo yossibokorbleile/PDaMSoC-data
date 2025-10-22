@@ -1,0 +1,86 @@
+% Patrice Koehl, November 22 2025
+%
+%
+This directory contains all the scripts needed to compute
+the distance matrices of all the pairwise distances between the contours
+in the data set X1Y1. 
+
+1) List of contours:
+=====================
+
+   list_X1Y1
+
+   Ordering of the cells in X1Y1. The distance matrices follow that
+   order both along the rows and along the columns
+
+2) Cluster informations about the cell contours:
+================================================
+
+   list_2clusters
+
+   With the same ordering as in list_X1Y1, provides for each cell
+   the cluster it belongs to, with 1 meaning that the cell is
+   of type X1 (i.e., a hMSC), and 2 meaning that the cell is 
+   of type Y1 (i.e. HeLa cell)
+
+   list_6clusters
+
+   With the same ordering as in list_X1Y1, provides for each cell
+   the cluster it belongs to, with:
+
+		1: cell belongs to cluster A of X1
+		2: cell belongs to cluster B of X1
+		3: cell belongs to cluster C of X1
+		4: cell belongs to cluster D of X1
+		5: singleton cluster, X1-015
+		6: cell belons to Y1
+
+3) Scripts for aspect ratio:
+============================
+
+     aspectratio.m		: script that computes the rotation invariant,
+			  	translation invariant aspect ratio of one contour
+
+     distances_aspectratio.m	: script that computes all pairwise aspect ratio
+				  distances between the 240 contours of X1Y1
+				 and stores them in distances_aspectratio.dat 
+
+4) Scripts for elastic distance:
+================================
+
+     distances_elastic.m	: script that computes all elastic shape
+				  distances between the 240 contours of X1Y1
+				 and stores them in distances_aspectratio.dat 
+
+     Note that this script needs the package fdasrvf (see comments in
+     distances_elastic.m). If you download it from the Github repository,
+     you may see that the file setup.m is missing. I have added it here
+
+     setup.m
+
+5) Scripts for Fourier descriptors:
+===================================
+
+     fd_descriptors.m	: 	script that computes the rotation invariant,
+			  	translation invariant Fourier descriptors of one  contour
+
+     fd_reconstruct.m	: 	script that generates a curve from Fourier descriptors
+
+     fd_example.m	:	simple example that computes the Fourier descriptors
+				of a contour (in cell.dat) and generates 2 reconstructions
+				at two harmonic level, M=10, and M = 50
+
+     distances_fd.m		: script that computes all pairwise Fourier-based
+				  distances (with M = 10, and M = 50) between the 240 contours of X1Y1
+				 and stores them in distances_fd10.dat and distances_fd50.dat
+
+6) Scripts for analysis:
+========================
+
+     mds_analysis.m		: 	script that generates a 2D MDS based on a distance matrix.
+				It uses gold standard cluster definition for coloring
+
+     roc_analysis.m	:	script that generates a ROC curve based on a distance matrix
+				and a gold standard cluster definition
+				It also computes a AUC and a pAUC10
+

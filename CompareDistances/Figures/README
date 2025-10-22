@@ -1,0 +1,15 @@
+% Patrice Koehl, November 22 2025
+%
+%
+This directory contains the analysis files that are used to 
+generate the figures in the paper
+
+Generating figures 10, 12, and 13 of manuscript:
+==================================================
+
+     figure10.m		: 	generates a raw version of figure 10
+
+     figure12.m		:	generates the 4 panels of figure 12
+
+     figure13.m		:	generates the 2 panels of figure 13
+

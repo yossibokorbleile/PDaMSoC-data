@@ -1,0 +1,50 @@
+% Patrice Koehl, November 22 2025
+%
+%
+This directory contains all distance matrices for the 240 cell contours
+in the data set X1Y1:
+
+1) List of contours:
+=====================
+
+   list_X1Y1
+
+   Ordering of the cells in X1Y1. The distance matrices follow that
+   order both along the rows and along the columns
+
+2) Cluster informations about the cell contours:
+================================================
+
+   list_2clusters
+
+   With the same ordering as in list_X1Y1, provides for each cell
+   the cluster it belongs to, with 1 meaning that the cell is
+   of type X1 (i.e., a hMSC), and 2 meaning that the cell is 
+   of type Y1 (i.e. HeLa cell)
+
+   list_6clusters
+
+   With the same ordering as in list_X1Y1, provides for each cell
+   the cluster it belongs to, with:
+
+		1: cell belongs to cluster A of X1
+		2: cell belongs to cluster B of X1
+		3: cell belongs to cluster C of X1
+		4: cell belongs to cluster D of X1
+		5: singleton cluster, X1-015
+		6: cell belons to Y1
+
+3) Distance matrices:
+=====================
+
+There are 240 cells in X1Y1. In consequence, each distance matrix
+contains 240 lines (rows), with each line containing 240 values (columns),
+separated by space.
+Rows and columns are organized according to list_X1Y1
+
+      distances_PH.dat			: distances computed with the PH distance
+      distances_aspectration.dat	: distances computed with the aspect ratio distance
+      distances_elastic.dat		: distances computed with the elastic distance
+      distances_fd10.dat		: distances based on Fourier descriptors, with M=10 harmonics
+      distances_fd50.dat		: distances based on Fourier descriptors, with M=50 harmonics
+

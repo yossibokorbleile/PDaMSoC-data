@@ -1,0 +1,80 @@
+% Patrice Koehl, November 22 2025
+%
+%
+This directory contains all the files that are needed to redo the
+analysis in the paper on comparing 5 measures of similarity of 2D contours
+
+These files are organized into 4 directories; note that each directory
+has its own README
+
+1) X1Y1_Contours
+=====================
+
+   The 240 contours for the combined dataset X1Y1, that includes
+   140 hMS cells (X1) and 100 HeLa cells (Y1)
+
+   In all analyses, those cells are organized according to the 
+   order in file list_X1Y1
+
+2) X1Y1_distances
+=====================
+
+   The distance matrices that include all pairwise distances between
+   the 240 contours of X1Y1:
+
+	distances_PH.dat	 : distances based on Persistence Homology
+	distance_elastic.dat	 : distances based on elastic shape distance
+	distance_aspectratio.dat : distances based on aspect ratio distance
+	distance_fd10.dat	 : distances based on Fourier descriptors,
+				   up to M=10 harmonics 
+	distance_fd50.dat	 : distances based on Fourier descriptors,
+				   up to M=50 harmonics 
+
+3) Scripts
+=====================
+
+  All matlab scripts to perform the analyses, organized into three groups:
+
+    a) Those that compute individual distances or descriptors:
+
+		aspectratio.m	: Computes the aspect ratio of a curve
+		fd_dscriptors.m : Computes the Fourier descriptors
+
+    b) Those that perform the all-pair comparisons:
+
+		distances_aspectratio.m	: Computes (and save) the distance matrix
+					  based on the aspect ratio distance
+
+		distances_fd.m		: Computes (and save) 2 distance matrices
+					  based on Fourier descriptors, one with
+					  up to 10 harmonics, one with up to 50 harmonics
+
+		distances_elastic.m	: Computes (and save) the distance matrix
+					  based on the elastic shape energy
+					  (NOTE: this script needs the package fdasrvf
+					  available at
+					  https://github.com/jdtuck/fdasrvf_MATLAB
+					  The repository is missing one important file,
+					  setup.m; I added it in Scripts.
+					  Note also that I am using the function
+					  pairwise_align_curves
+					  from that package. When run multiple times
+					  (like in distance_elastic), I strongly
+					  advise to turn off display and printing
+					  (Boolean flags in the script pairwise_align_curves).
+
+   c) Analysis scripts:
+
+		mds_analysis.m		: Performs classical MDS and plot the projection
+					  on 2 dimensions
+
+		roc_analysis.m		: Performs a ROC analysis, using two different
+					  gold standards, one based on 2 clusters
+					  (X1 and Y1), and a finer gold standard including
+					  8 clusters, 5 for X1 and 1 for Y1
+
+3) Figures
+=====================
+
+	Matlab scripts to regenerate the Figures 10, 12, and 13 from the manuscript
+

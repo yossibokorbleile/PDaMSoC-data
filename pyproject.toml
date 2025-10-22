@@ -1,7 +1,7 @@
 [project]
 name = "pdamsoc-data"
 version = "0.1.0"
-description = "Add your description here"
+description = "Data sets and analysis from the paper 'Persistence diagrams as morphological signatures of cells'"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
@@ -9,6 +9,7 @@ dependencies = [
     "jinja2>=3.1.6",
     "kaleido>=1.1.0",
     "matplotlib>=3.10.6",
+    "nbformat>=5.10.4",
     "numpy>=2.3.3",
     "pandas>=2.3.2",
     "pip>=25.2",
