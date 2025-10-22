@@ -1,4 +1,5 @@
 # PDaMSoC-data
+[![DOI](https://zenodo.org/badge/747212765.svg)](https://doi.org/10.5281/zenodo.16760102)
 This repository contains the data sets from the paper [Persistence diagrams as morphological signatures of cells: A method to measure and compare cells within a population](https://files.yossi.eu/manuscripts/2310.20644.pdf) by Yossi Bokor Bleile, Pooja Yadav, Patrice Koehl, and Florian Rehfeldt, as well as a Jupyter Notebook which reproduces the analysis from the paper.
 
 To run the notebook, the following Python packages will need to be installed:
