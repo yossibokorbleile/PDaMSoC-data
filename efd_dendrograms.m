@@ -1,6 +1,6 @@
-data10 = readtable('/Users/yossi/PDaMSoC-data/X1+Y1/efd-analysis/dists_10_no_X1_15.csv');
-data50 = readtable('/Users/yossi/PDaMSoC-data/X1+Y1/efd-analysis/dists_50_no_X1_15.csv');
-data100 = readtable('/Users/yossi/PDaMSoC-data/X1+Y1/efd-analysis/dists_100_no_X1_15.csv');
+data10 = readtable('/Users/yossi/PDaMSoC-data/X1+Y1/efd-analysis/normalised_dists_10_no_X1_15.csv');
+data50 = readtable('/Users/yossi/PDaMSoC-data/X1+Y1/efd-analysis/normalised_dists_50_no_X1_15.csv');
+data100 = readtable('/Users/yossi/PDaMSoC-data/X1+Y1/efd-analysis/normalised_dists_100_no_X1_15.csv');
 
 data10.Properties.RowNames = data10.Var1;
 data50.Properties.RowNames = data50.Var1;
