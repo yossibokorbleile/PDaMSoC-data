@@ -13,7 +13,6 @@ dependencies = [
     "pandas>=2.3.2",
     "pip>=25.2",
     "plotly>=6.3.0",
-    "pyefd>=1.6.0",
     "scikit-learn>=1.7.2",
     "tifffile>=2025.9.20",
 ]

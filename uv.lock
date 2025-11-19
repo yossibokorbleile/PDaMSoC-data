@@ -714,7 +714,6 @@ dependencies = [
     { name = "pandas" },
     { name = "pip" },
     { name = "plotly" },
-    { name = "pyefd" },
     { name = "scikit-learn" },
     { name = "tifffile" },
 ]
@@ -729,7 +728,6 @@ requires-dist = [
     { name = "pandas", specifier = ">=2.3.2" },
     { name = "pip", specifier = ">=25.2" },
     { name = "plotly", specifier = ">=6.3.0" },
-    { name = "pyefd", specifier = ">=1.6.0" },
     { name = "scikit-learn", specifier = ">=1.7.2" },
     { name = "tifffile", specifier = ">=2025.9.20" },
 ]
@@ -894,18 +892,6 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/fe/cf/d2d3b9f5699fb1e4615c8e32ff220203e43b248e1dfcc6736ad9057731ca/pycparser-2.23.tar.gz", hash = "sha256:78816d4f24add8f10a06d6f05b4d424ad9e96cfebf68a4ddc99c65c0720d00c2", size = 173734, upload-time = "2025-09-09T13:23:47.91Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/a0/e3/59cd50310fc9b59512193629e1984c1f95e5c8ae6e5d8c69532ccc65a7fe/pycparser-2.23-py3-none-any.whl", hash = "sha256:e5c6e8d3fbad53479cab09ac03729e0a9faf2bee3db8208a550daf5af81a5934", size = 118140, upload-time = "2025-09-09T13:23:46.651Z" },
-]
-
-[[package]]
-name = "pyefd"
-version = "1.6.0"
-source = { registry = "https://pypi.org/simple" }
-dependencies = [
-    { name = "numpy" },
-]
-sdist = { url = "https://files.pythonhosted.org/packages/7f/fc/d62c68520252715b1b06bfebf45dbbb696f06535bab9210259eb6987f9fc/pyefd-1.6.0.tar.gz", hash = "sha256:628f50f395d41c82db9625834674975584fa8f829fc60cfc127937dec8f22980", size = 10966, upload-time = "2021-12-09T18:40:19.572Z" }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/d2/6c/abb8f9b6b30fa4e69addd8e6e3c384fd4ce4ad23e38bb79e6a82cd3e74a9/pyefd-1.6.0-py2.py3-none-any.whl", hash = "sha256:3c0bff21bdd00a8f1da69618ed61ea5b8a38d94c7ff5556073716aae0f66c8a2", size = 7677, upload-time = "2021-12-09T18:40:17.99Z" },
 ]
 
 [[package]]
