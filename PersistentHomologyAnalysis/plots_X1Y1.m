@@ -1,13 +1,5 @@
-data = readtable('/Users/yossi/PDaMSoC-data/X1+Y1/distances_not_scaled_by_area.csv');
-X1 = readtable("X1+Y1/distances_not_scaled_by_area_X1.csv");
-X1_df = readtable("X1/Not_Scaled_X1_df.csv");
-Y1 = readtable("X1+Y1/distances_not_scaled_by_area_Y1.csv");
-Y1_df = readtable("Y1/Not_Scaled_Y1_df.csv");
+data = readtable('X1Y1/distances.csv');
 data.Properties.RowNames = data.Var1;
-X1.Properties.RowNames = X1.Var1;
-Y1.Properties.RowNames = Y1.Var1;
-X1_df.Properties.RowNames = X1_df.Var1;
-Y1_df.Properties.RowNames = Y1_df.Var1;
 X1_cols = [
     0.0 1 1;      %cyan
      0.3600,    0.6100,         0; %green
@@ -17,17 +9,10 @@ X1_cols = [
     ];
 
 data=removevars(data, "Var1");
-X1 = removevars(X1, "Var1");
-Y1 = removevars(Y1, "Var1");
-X1_df = removevars(X1_df, "Var1");
-Y1_df = removevars(Y1_df, "Var1");
+
 numericData = table2array(data);
-numericX1 = table2array(X1);
-numericY1 = table2array(Y1);
 % Display the first few rows of the data
 N = max(size(numericData));
-NX = max(size(numericX1));
-NY = max(size(numericY1));
 nClusters = 9;
 
 X1_clusters = readtable("mlab_clusters_X1.csv");

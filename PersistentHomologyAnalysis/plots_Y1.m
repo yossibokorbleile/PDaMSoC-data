@@ -1,21 +1,20 @@
-Y1 = readtable("X1+Y1/distances_not_scaled_by_area_Y1.csv");
-Y1_df = readtable("Y1/Not_Scaled_Y1_df.csv");
+Y1 = readtable("Y1/distances.csv");
+Y1_df = readtable("Y1/Y1_df.csv");
 Y1.Properties.RowNames = Y1.Var1;
 Y1_df.Properties.RowNames = Y1_df.Var1;
 Y1_cols = [
-    0.0000, 0,      0;  %black    
-0.0 1 1;      %cyan
-    0.8000, 0,      1.0000; %purple
+    0.0 1 1;      %cyan
      0.3600,    0.6100,         0; %green
-    1,      0.000, 0.0000; %red
- 
+     0.8000, 0,      1.0000;  %3 purple 
+1,      0.000, 0.0000; %red
+    0,0,0; %5 black
     ];
 Y1 = removevars(Y1, "Var1");
 Y1_df = removevars(Y1_df, "Var1");
 numericY1 = table2array(Y1);
 % Display the first few rows of the Y1
 N = max(size(numericY1));
-nClusters = 4;
+nClusters = 5;
 
 %% 
 % 
@@ -27,15 +26,16 @@ nClusters = 4;
 %============================================
 
 tree1=linkage(numericY1,'average');
-
+clusterAssignments = cluster(tree1, 'MaxClust', 5);
 %
+writematrix(nClusters, "mlab_clusters_Y1.csv")
 % Generate figure with 4 clusters
 %
 figure
 cutoff = median([tree1(end-nClusters+1,3) tree1(end-nClusters+2, 3)]);
 h1=dendrogram(tree1,0,'ColorThreshold',cutoff);
 set(h1,'LineWidth',1.5);
-xticks([])
+xticklabels([])
 yticks([])
 % xlabel({"Y1 Average Linkage"});
 % yticklabels({});
@@ -61,7 +61,7 @@ for iLeaf = 1:N
 	% assign color to each observation
 	numericY1_cluster(iLeaf,1) = iLeaf;
 	numericY1_cluster(iLeaf,2) = find(ismember(colorList1, color, 'rows')); 
-    numericY1_color(iLeaf,:) = Y1_cols(find(ismember(colorList1, color, 'rows')),:); 
+    numericY1_color(iLeaf,:) = Y1_cols(clusterAssignments(iLeaf),:); 
 end
 for i = 1:length(h1)
         h1(i).Color = [0, 0, 0]; % RGB for black
@@ -70,8 +70,8 @@ for iLeaf = 1:N
     [iRow, ~] = find(tree1==iLeaf);
     set(h1(iRow), 'Color', numericY1_color(iLeaf,:));
 end
-savefig("Y1_average.fig");
-exportgraphics(gcf, 'Y1_average.png');
+% savefig("Y1_average.fig");
+% exportgraphics(gcf, 'Y1_average.png');
 %%
 
 
@@ -104,11 +104,7 @@ yticks([])
 % yticklabels({});
 box on
 gca.LineWidth=1;
-for i = 1:size(h2,1)
-    if h2(i).Color == [0.5 1.0 0];
-        h2(i).Color = [0.36 0.61 0.00];
-    end
-end
+
 savefig("Y1_complete.fig");
 exportgraphics(gcf, 'Y1_complete.png');
 %%
@@ -196,7 +192,10 @@ exportgraphics(gcf, 'Y1_ward.png');
 figure
 hold on
 for i=1:N
+    for i=1:N
      plot (Y(i,1),Y(i,2), "o", "Color", numericY1_color(i,:), 'LineWidth',1.5);
+    % plot(Y(iLeaf,1),Y(iLeaf,2), 'o','Color',numericY1_color(iLeaf,:), 'LineWidth',1.5);
+end
     % plot(Y(iLeaf,1),Y(iLeaf,2), 'o','Color',numericY1_color(iLeaf,:), 'LineWidth',1.5);
 end
 xticks([])
