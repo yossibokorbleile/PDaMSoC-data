@@ -31,8 +31,9 @@ X1_cols = [
     1.0000, 0,      0;      % Red
     0.0 1.0 1.0;      % Yellow-Green
     0.3600,    0.6100,         0; % Green
-    0,      0.000, 0.0000; % Black
+    
     0.8000, 0,      1.0000; % Purple
+    1,      0.000, 0.0000; % Red
     0,      0,      0       % Black
     ];
 % X1_cols = hsv(5);
@@ -40,11 +41,23 @@ X1_cols = [
 for i = 1:N
     cell = data.Properties.RowNames{i};
     if contains(cell, "Y1")
-        plot (Y(i,1),Y(i,2), "o", "Color", [0.8,0.8,0], 'LineWidth',1.5);
+        plot (Y(i,1),Y(i,2), "o", "Color", [0.8,0.8,0], 'LineWidth',1.5)
+        if cell == "Y1_215"
+            text(Y(i,1),Y(i,2), "Y1\_215")
+        elseif cell == "Y1_222"
+            text(Y(i,1),Y(i,2), "Y1\_222")
+        end
     elseif contains(cell, "X1")
            % X1_rowId = strcmp(clusterAssignmentsX1.Properties.RowNames, cell);
            clusId = clusterAssignmentsX1{cell, "Cluster"}+1;
            X1_cols(clusId,:)
            plot (Y(i,1),Y(i,2), "o", "Color", X1_cols(clusId,:), 'LineWidth',1.5);
+           if cell == "X1_108"
+               text(Y(i,1),Y(i,2), "X1\_108")
+           elseif cell == "X1_015"
+               text(Y(i,1),Y(i,2), "X1\_015")
+           elseif cell == "X1_129"
+               text(Y(i,1),Y(i,2), "X1\_129")
+           end
     end
 end
