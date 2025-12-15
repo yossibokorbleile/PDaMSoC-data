@@ -1,4 +1,4 @@
-X1 = readtable("X1/distances.csv");
+X1 = readtable("X1/X1_distances.csv");
 X1_df = readtable("X1/X1_df.csv");
 X1.Properties.RowNames = X1.Var1;
 X1_df.Properties.RowNames = X1_df.Var1;
