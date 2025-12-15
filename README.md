@@ -14,7 +14,7 @@ The repository includes:
 - A Jupyter notebook (`analysis.ipynb`) that reproduces the persistent homology computations, and MATLAB files that reproduce the figures from the paper.
 
 ## Directory Structure
-There are four directories, `X1`, `X2`, `X3`, and `Y1`. In each directory, there are sub-directories `cell` and `nucleus`, and a file `Nuc_Cm_{DIRECTORY}.csv`, which contains the coordinates of the center of mass for each nucleus. 
+There are four directories, `X1`, `X2`, `X3`, and `Y1`. In each directory, there are sub-directories `cell` and `nucleus`, and a file `Nuc_Cm_{DIRECTORY}.csv`, which contains the coordinates of the center of mass for each nucleus, with the coordiante system based on the size of the image of the nucleus. In the directory `PersistentHomologyAnalysis` there are `.csv` files `X1_focal_points.csv` and `Y1_focal_points.csv` where these focal points have been translated into the coordinate framed the contours extraced using `FilamentSensor2` are in. Thus, this same translation would need to be performed for `X2` and `X3`.
 
 The datasets `X1`, `X2`, `X3` consist of adult human mesenchymal stem cells (hMSCs) purchased from Lonza $PT-2501$ Basel, Switzerland, and `Y1` consists of HeLa cells Leibniz Institute, DSMZ, ACC 57, RRID:CVCL 0030, see `Materials and Methods` section of [Persistence diagrams as morphological signatures of cells: A method to measure and compare cells within a population](https://files.yossi.eu/manuscripts/2310.20644.pdf) for more information about how the were cultured, and how the images were obtained.
 

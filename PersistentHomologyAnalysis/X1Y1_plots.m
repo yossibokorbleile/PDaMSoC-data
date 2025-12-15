@@ -1,4 +1,4 @@
-data = readtable('/Users/yossi/PDaMSoC-data/X1+Y1/distances_not_scaled_by_area_no_x1_15.csv');
+data = readtable('X1Y1/X1Y1_distances.csv');
 data.Properties.RowNames = data.Var1;
 data=removevars(data, "Var1");
 numericData = table2array(data);
