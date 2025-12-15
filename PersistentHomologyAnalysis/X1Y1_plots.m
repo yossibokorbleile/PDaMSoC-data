@@ -41,23 +41,31 @@ X1_cols = [
 for i = 1:N
     cell = data.Properties.RowNames{i};
     if contains(cell, "Y1")
-        plot (Y(i,1),Y(i,2), "o", "Color", [0.8,0.8,0], 'LineWidth',1.5)
-        if cell == "Y1_215"
-            text(Y(i,1),Y(i,2), "Y1\_215")
-        elseif cell == "Y1_222"
-            text(Y(i,1),Y(i,2), "Y1\_222")
+         if cell == "Y1_215"
+             plot (Y(i,1),Y(i,2), "o", "MarkerFaceColor", [0.8,0.8,0], "MarkerEdgeColor", [0.8,0.8,0], 'LineWidth',1.5);
+             text(Y(i,1),Y(i,2), "Y1\_215")
+         elseif cell == "Y1_222"
+             plot (Y(i,1),Y(i,2), "o", "MarkerFaceColor", [0.8,0.8,0], "MarkerEdgeColor", [0.8,0.8,0], 'LineWidth',1.5);
+             text(Y(i,1),Y(i,2), "Y1\_222")
+        else
+            plot (Y(i,1),Y(i,2), "o",  "MarkerEdgeColor", [0.8,0.8,0], 'LineWidth',1.5);
         end
     elseif contains(cell, "X1")
            % X1_rowId = strcmp(clusterAssignmentsX1.Properties.RowNames, cell);
            clusId = clusterAssignmentsX1{cell, "Cluster"}+1;
            X1_cols(clusId,:)
-           plot (Y(i,1),Y(i,2), "o", "Color", X1_cols(clusId,:), 'LineWidth',1.5);
+           
            if cell == "X1_108"
                text(Y(i,1),Y(i,2), "X1\_108")
+               plot (Y(i,1),Y(i,2), "o", "MarkerFaceColor", X1_cols(clusId,:), "MarkerEdgeColor", X1_cols(clusId,:), 'LineWidth',1.5);
            elseif cell == "X1_015"
                text(Y(i,1),Y(i,2), "X1\_015")
+               plot (Y(i,1),Y(i,2), "o", "MarkerFaceColor", X1_cols(clusId,:), "MarkerEdgeColor", X1_cols(clusId,:), 'LineWidth',1.5);
            elseif cell == "X1_129"
+               plot (Y(i,1),Y(i,2), "o", "MarkerFaceColor", X1_cols(clusId,:), "MarkerEdgeColor", X1_cols(clusId,:), 'LineWidth',1.5);
                text(Y(i,1),Y(i,2), "X1\_129")
+           else 
+               plot (Y(i,1),Y(i,2), "o",  "MarkerEdgeColor", X1_cols(clusId,:), 'LineWidth',1.5);
            end
     end
 end
